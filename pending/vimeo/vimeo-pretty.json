@@ -1,0 +1,6804 @@
+{
+  "clip_id": "237282867",
+  "base_url": "../",
+  "video": [
+    {
+      "id": "846142400",
+      "base_url": "846142400/chop/",
+      "format": "mp42",
+      "mime_type": "video/mp4",
+      "codecs": "avc1.64001F",
+      "bitrate": 1335000,
+      "avg_bitrate": 661000,
+      "duration": 1116.75,
+      "framerate": 24,
+      "width": 960,
+      "height": 540,
+      "max_segment_duration": 7,
+      "init_segment": "AAAAHGZ0eXBpc281AAACAGlzbzVpc282bXA0MQAAAz9tb292AAAAbG12aGQAAAAAAAAAAAAAAAAAAAPoAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACQXRyYWsAAABcdGtoZAAAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAADwAAAAhwAAAAAACRlZHRzAAAAHGVsc3QAAAAAAAAAAQAAAAAAAAQAAAEAAAAAAbltZGlhAAAAIG1kaGQAAAAAAAAAAAAAAAAAADAAAAAAAFXEAAAAAAAtaGRscgAAAAAAAAAAdmlkZQAAAAAAAAAAAAAAAFZpZGVvSGFuZGxlcgAAAAFkbWluZgAAABR2bWhkAAAAAQAAAAAAAAAAAAAAJGRpbmYAAAAcZHJlZgAAAAAAAAABAAAADHVybCAAAAABAAABJHN0YmwAAADYc3RzZAAAAAAAAAABAAAAyGF2YzEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAADwAIcAEgAAABIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY//8AAAA7YXZjQwFkAB//4QAeZ2QAH6xWJA8BF+8BagwMDIAAAAMAgAAAGAeMGMTAAQAGaOiOyyLA/fj4AAAAABNjb2xybmNseAAGAAYABgAAAAAQcGFzcAAAAAEAAAABAAAAFGJ0cnQAAAAAAAoB9wAKAfcAAAAQc3R0cwAAAAAAAAAAAAAAEHN0c2MAAAAAAAAAAAAAABRzdHN6AAAAAAAAAAAAAAAAAAAAEHN0Y28AAAAAAAAAAAAAAChtdmV4AAAAIHRyZXgAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAABidWR0YQAAAFptZXRhAAAAAAAAACFoZGxyAAAAAAAAAABtZGlyYXBwbAAAAAAAAAAAAAAAAC1pbHN0AAAAJal0b28AAAAdZGF0YQAAAAEAAAAATGF2ZjU4LjY0LjEwMA==",
+      "segments": [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "segment-1.m4s",
+          "size": 239170
+        },
+        {
+          "start": 6,
+          "end": 12,
+          "url": "segment-2.m4s",
+          "size": 1091022
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "segment-3.m4s",
+          "size": 1065339
+        },
+        {
+          "start": 18,
+          "end": 24,
+          "url": "segment-4.m4s",
+          "size": 421318
+        },
+        {
+          "start": 24,
+          "end": 30,
+          "url": "segment-5.m4s",
+          "size": 462755
+        },
+        {
+          "start": 30,
+          "end": 36,
+          "url": "segment-6.m4s",
+          "size": 768201
+        },
+        {
+          "start": 36,
+          "end": 42,
+          "url": "segment-7.m4s",
+          "size": 516714
+        },
+        {
+          "start": 42,
+          "end": 48,
+          "url": "segment-8.m4s",
+          "size": 433497
+        },
+        {
+          "start": 48,
+          "end": 54,
+          "url": "segment-9.m4s",
+          "size": 626951
+        },
+        {
+          "start": 54,
+          "end": 60,
+          "url": "segment-10.m4s",
+          "size": 490673
+        },
+        {
+          "start": 60,
+          "end": 66,
+          "url": "segment-11.m4s",
+          "size": 396587
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "url": "segment-12.m4s",
+          "size": 572699
+        },
+        {
+          "start": 72,
+          "end": 78,
+          "url": "segment-13.m4s",
+          "size": 365386
+        },
+        {
+          "start": 78,
+          "end": 84,
+          "url": "segment-14.m4s",
+          "size": 557715
+        },
+        {
+          "start": 84,
+          "end": 90,
+          "url": "segment-15.m4s",
+          "size": 554276
+        },
+        {
+          "start": 90,
+          "end": 96,
+          "url": "segment-16.m4s",
+          "size": 714864
+        },
+        {
+          "start": 96,
+          "end": 102,
+          "url": "segment-17.m4s",
+          "size": 420485
+        },
+        {
+          "start": 102,
+          "end": 108,
+          "url": "segment-18.m4s",
+          "size": 694334
+        },
+        {
+          "start": 108,
+          "end": 114,
+          "url": "segment-19.m4s",
+          "size": 317565
+        },
+        {
+          "start": 114,
+          "end": 120,
+          "url": "segment-20.m4s",
+          "size": 242555
+        },
+        {
+          "start": 120,
+          "end": 126,
+          "url": "segment-21.m4s",
+          "size": 151940
+        },
+        {
+          "start": 126,
+          "end": 132,
+          "url": "segment-22.m4s",
+          "size": 226598
+        },
+        {
+          "start": 132,
+          "end": 138,
+          "url": "segment-23.m4s",
+          "size": 194079
+        },
+        {
+          "start": 138,
+          "end": 144,
+          "url": "segment-24.m4s",
+          "size": 654697
+        },
+        {
+          "start": 144,
+          "end": 150,
+          "url": "segment-25.m4s",
+          "size": 683102
+        },
+        {
+          "start": 150,
+          "end": 156,
+          "url": "segment-26.m4s",
+          "size": 592774
+        },
+        {
+          "start": 156,
+          "end": 162,
+          "url": "segment-27.m4s",
+          "size": 464392
+        },
+        {
+          "start": 162,
+          "end": 168,
+          "url": "segment-28.m4s",
+          "size": 417568
+        },
+        {
+          "start": 168,
+          "end": 174,
+          "url": "segment-29.m4s",
+          "size": 309461
+        },
+        {
+          "start": 174,
+          "end": 180,
+          "url": "segment-30.m4s",
+          "size": 492879
+        },
+        {
+          "start": 180,
+          "end": 186,
+          "url": "segment-31.m4s",
+          "size": 487898
+        },
+        {
+          "start": 186,
+          "end": 192,
+          "url": "segment-32.m4s",
+          "size": 545086
+        },
+        {
+          "start": 192,
+          "end": 198,
+          "url": "segment-33.m4s",
+          "size": 800053
+        },
+        {
+          "start": 198,
+          "end": 204,
+          "url": "segment-34.m4s",
+          "size": 1031471
+        },
+        {
+          "start": 204,
+          "end": 210,
+          "url": "segment-35.m4s",
+          "size": 890928
+        },
+        {
+          "start": 210,
+          "end": 216,
+          "url": "segment-36.m4s",
+          "size": 1020484
+        },
+        {
+          "start": 216,
+          "end": 222,
+          "url": "segment-37.m4s",
+          "size": 901399
+        },
+        {
+          "start": 222,
+          "end": 228,
+          "url": "segment-38.m4s",
+          "size": 468267
+        },
+        {
+          "start": 228,
+          "end": 234,
+          "url": "segment-39.m4s",
+          "size": 412109
+        },
+        {
+          "start": 234,
+          "end": 240,
+          "url": "segment-40.m4s",
+          "size": 452497
+        },
+        {
+          "start": 240,
+          "end": 246,
+          "url": "segment-41.m4s",
+          "size": 784091
+        },
+        {
+          "start": 246,
+          "end": 252,
+          "url": "segment-42.m4s",
+          "size": 782942
+        },
+        {
+          "start": 252,
+          "end": 258,
+          "url": "segment-43.m4s",
+          "size": 748385
+        },
+        {
+          "start": 258,
+          "end": 264,
+          "url": "segment-44.m4s",
+          "size": 513885
+        },
+        {
+          "start": 264,
+          "end": 270,
+          "url": "segment-45.m4s",
+          "size": 384785
+        },
+        {
+          "start": 270,
+          "end": 276,
+          "url": "segment-46.m4s",
+          "size": 603569
+        },
+        {
+          "start": 276,
+          "end": 282,
+          "url": "segment-47.m4s",
+          "size": 834838
+        },
+        {
+          "start": 282,
+          "end": 288,
+          "url": "segment-48.m4s",
+          "size": 613748
+        },
+        {
+          "start": 288,
+          "end": 294,
+          "url": "segment-49.m4s",
+          "size": 474312
+        },
+        {
+          "start": 294,
+          "end": 300,
+          "url": "segment-50.m4s",
+          "size": 525515
+        },
+        {
+          "start": 300,
+          "end": 306,
+          "url": "segment-51.m4s",
+          "size": 764148
+        },
+        {
+          "start": 306,
+          "end": 312,
+          "url": "segment-52.m4s",
+          "size": 704968
+        },
+        {
+          "start": 312,
+          "end": 318,
+          "url": "segment-53.m4s",
+          "size": 737997
+        },
+        {
+          "start": 318,
+          "end": 324,
+          "url": "segment-54.m4s",
+          "size": 714786
+        },
+        {
+          "start": 324,
+          "end": 330,
+          "url": "segment-55.m4s",
+          "size": 484958
+        },
+        {
+          "start": 330,
+          "end": 336,
+          "url": "segment-56.m4s",
+          "size": 717904
+        },
+        {
+          "start": 336,
+          "end": 342,
+          "url": "segment-57.m4s",
+          "size": 400505
+        },
+        {
+          "start": 342,
+          "end": 348,
+          "url": "segment-58.m4s",
+          "size": 508700
+        },
+        {
+          "start": 348,
+          "end": 354,
+          "url": "segment-59.m4s",
+          "size": 360538
+        },
+        {
+          "start": 354,
+          "end": 360,
+          "url": "segment-60.m4s",
+          "size": 350914
+        },
+        {
+          "start": 360,
+          "end": 366,
+          "url": "segment-61.m4s",
+          "size": 437028
+        },
+        {
+          "start": 366,
+          "end": 372,
+          "url": "segment-62.m4s",
+          "size": 479363
+        },
+        {
+          "start": 372,
+          "end": 378,
+          "url": "segment-63.m4s",
+          "size": 573251
+        },
+        {
+          "start": 378,
+          "end": 384,
+          "url": "segment-64.m4s",
+          "size": 690954
+        },
+        {
+          "start": 384,
+          "end": 390,
+          "url": "segment-65.m4s",
+          "size": 640097
+        },
+        {
+          "start": 390,
+          "end": 396,
+          "url": "segment-66.m4s",
+          "size": 519790
+        },
+        {
+          "start": 396,
+          "end": 402,
+          "url": "segment-67.m4s",
+          "size": 680118
+        },
+        {
+          "start": 402,
+          "end": 408,
+          "url": "segment-68.m4s",
+          "size": 505947
+        },
+        {
+          "start": 408,
+          "end": 414,
+          "url": "segment-69.m4s",
+          "size": 507038
+        },
+        {
+          "start": 414,
+          "end": 420,
+          "url": "segment-70.m4s",
+          "size": 295324
+        },
+        {
+          "start": 420,
+          "end": 426,
+          "url": "segment-71.m4s",
+          "size": 194058
+        },
+        {
+          "start": 426,
+          "end": 432,
+          "url": "segment-72.m4s",
+          "size": 314659
+        },
+        {
+          "start": 432,
+          "end": 438,
+          "url": "segment-73.m4s",
+          "size": 649142
+        },
+        {
+          "start": 438,
+          "end": 444,
+          "url": "segment-74.m4s",
+          "size": 1012297
+        },
+        {
+          "start": 444,
+          "end": 450,
+          "url": "segment-75.m4s",
+          "size": 663074
+        },
+        {
+          "start": 450,
+          "end": 456,
+          "url": "segment-76.m4s",
+          "size": 767456
+        },
+        {
+          "start": 456,
+          "end": 462,
+          "url": "segment-77.m4s",
+          "size": 703605
+        },
+        {
+          "start": 462,
+          "end": 468,
+          "url": "segment-78.m4s",
+          "size": 445192
+        },
+        {
+          "start": 468,
+          "end": 474,
+          "url": "segment-79.m4s",
+          "size": 283541
+        },
+        {
+          "start": 474,
+          "end": 480,
+          "url": "segment-80.m4s",
+          "size": 308791
+        },
+        {
+          "start": 480,
+          "end": 486,
+          "url": "segment-81.m4s",
+          "size": 322987
+        },
+        {
+          "start": 486,
+          "end": 492,
+          "url": "segment-82.m4s",
+          "size": 687545
+        },
+        {
+          "start": 492,
+          "end": 498,
+          "url": "segment-83.m4s",
+          "size": 525811
+        },
+        {
+          "start": 498,
+          "end": 504,
+          "url": "segment-84.m4s",
+          "size": 581434
+        },
+        {
+          "start": 504,
+          "end": 510,
+          "url": "segment-85.m4s",
+          "size": 537732
+        },
+        {
+          "start": 510,
+          "end": 516,
+          "url": "segment-86.m4s",
+          "size": 433888
+        },
+        {
+          "start": 516,
+          "end": 522,
+          "url": "segment-87.m4s",
+          "size": 471466
+        },
+        {
+          "start": 522,
+          "end": 528,
+          "url": "segment-88.m4s",
+          "size": 600692
+        },
+        {
+          "start": 528,
+          "end": 534,
+          "url": "segment-89.m4s",
+          "size": 565782
+        },
+        {
+          "start": 534,
+          "end": 540,
+          "url": "segment-90.m4s",
+          "size": 412194
+        },
+        {
+          "start": 540,
+          "end": 546,
+          "url": "segment-91.m4s",
+          "size": 349407
+        },
+        {
+          "start": 546,
+          "end": 552,
+          "url": "segment-92.m4s",
+          "size": 318857
+        },
+        {
+          "start": 552,
+          "end": 558,
+          "url": "segment-93.m4s",
+          "size": 324444
+        },
+        {
+          "start": 558,
+          "end": 564,
+          "url": "segment-94.m4s",
+          "size": 386135
+        },
+        {
+          "start": 564,
+          "end": 570,
+          "url": "segment-95.m4s",
+          "size": 370400
+        },
+        {
+          "start": 570,
+          "end": 576,
+          "url": "segment-96.m4s",
+          "size": 396196
+        },
+        {
+          "start": 576,
+          "end": 582,
+          "url": "segment-97.m4s",
+          "size": 382422
+        },
+        {
+          "start": 582,
+          "end": 588,
+          "url": "segment-98.m4s",
+          "size": 377832
+        },
+        {
+          "start": 588,
+          "end": 594,
+          "url": "segment-99.m4s",
+          "size": 436163
+        },
+        {
+          "start": 594,
+          "end": 600,
+          "url": "segment-100.m4s",
+          "size": 429515
+        },
+        {
+          "start": 600,
+          "end": 606,
+          "url": "segment-101.m4s",
+          "size": 586276
+        },
+        {
+          "start": 606,
+          "end": 612,
+          "url": "segment-102.m4s",
+          "size": 464163
+        },
+        {
+          "start": 612,
+          "end": 618,
+          "url": "segment-103.m4s",
+          "size": 382368
+        },
+        {
+          "start": 618,
+          "end": 624,
+          "url": "segment-104.m4s",
+          "size": 373346
+        },
+        {
+          "start": 624,
+          "end": 630,
+          "url": "segment-105.m4s",
+          "size": 403816
+        },
+        {
+          "start": 630,
+          "end": 636,
+          "url": "segment-106.m4s",
+          "size": 445405
+        },
+        {
+          "start": 636,
+          "end": 642,
+          "url": "segment-107.m4s",
+          "size": 603060
+        },
+        {
+          "start": 642,
+          "end": 648,
+          "url": "segment-108.m4s",
+          "size": 435713
+        },
+        {
+          "start": 648,
+          "end": 654,
+          "url": "segment-109.m4s",
+          "size": 373075
+        },
+        {
+          "start": 654,
+          "end": 660,
+          "url": "segment-110.m4s",
+          "size": 410905
+        },
+        {
+          "start": 660,
+          "end": 666,
+          "url": "segment-111.m4s",
+          "size": 435484
+        },
+        {
+          "start": 666,
+          "end": 672,
+          "url": "segment-112.m4s",
+          "size": 366173
+        },
+        {
+          "start": 672,
+          "end": 678,
+          "url": "segment-113.m4s",
+          "size": 324576
+        },
+        {
+          "start": 678,
+          "end": 684,
+          "url": "segment-114.m4s",
+          "size": 471607
+        },
+        {
+          "start": 684,
+          "end": 690,
+          "url": "segment-115.m4s",
+          "size": 455094
+        },
+        {
+          "start": 690,
+          "end": 696,
+          "url": "segment-116.m4s",
+          "size": 842718
+        },
+        {
+          "start": 696,
+          "end": 702,
+          "url": "segment-117.m4s",
+          "size": 1119734
+        },
+        {
+          "start": 702,
+          "end": 708,
+          "url": "segment-118.m4s",
+          "size": 1040760
+        },
+        {
+          "start": 708,
+          "end": 714,
+          "url": "segment-119.m4s",
+          "size": 500597
+        },
+        {
+          "start": 714,
+          "end": 720,
+          "url": "segment-120.m4s",
+          "size": 235795
+        },
+        {
+          "start": 720,
+          "end": 726,
+          "url": "segment-121.m4s",
+          "size": 834829
+        },
+        {
+          "start": 726,
+          "end": 732,
+          "url": "segment-122.m4s",
+          "size": 466677
+        },
+        {
+          "start": 732,
+          "end": 738,
+          "url": "segment-123.m4s",
+          "size": 748903
+        },
+        {
+          "start": 738,
+          "end": 744,
+          "url": "segment-124.m4s",
+          "size": 551076
+        },
+        {
+          "start": 744,
+          "end": 750,
+          "url": "segment-125.m4s",
+          "size": 389822
+        },
+        {
+          "start": 750,
+          "end": 756,
+          "url": "segment-126.m4s",
+          "size": 679361
+        },
+        {
+          "start": 756,
+          "end": 762,
+          "url": "segment-127.m4s",
+          "size": 673672
+        },
+        {
+          "start": 762,
+          "end": 768,
+          "url": "segment-128.m4s",
+          "size": 576967
+        },
+        {
+          "start": 768,
+          "end": 774,
+          "url": "segment-129.m4s",
+          "size": 482106
+        },
+        {
+          "start": 774,
+          "end": 780,
+          "url": "segment-130.m4s",
+          "size": 556376
+        },
+        {
+          "start": 780,
+          "end": 786,
+          "url": "segment-131.m4s",
+          "size": 525723
+        },
+        {
+          "start": 786,
+          "end": 792,
+          "url": "segment-132.m4s",
+          "size": 573140
+        },
+        {
+          "start": 792,
+          "end": 798,
+          "url": "segment-133.m4s",
+          "size": 783014
+        },
+        {
+          "start": 798,
+          "end": 804,
+          "url": "segment-134.m4s",
+          "size": 430482
+        },
+        {
+          "start": 804,
+          "end": 810,
+          "url": "segment-135.m4s",
+          "size": 460287
+        },
+        {
+          "start": 810,
+          "end": 816,
+          "url": "segment-136.m4s",
+          "size": 577599
+        },
+        {
+          "start": 816,
+          "end": 822,
+          "url": "segment-137.m4s",
+          "size": 770924
+        },
+        {
+          "start": 822,
+          "end": 828,
+          "url": "segment-138.m4s",
+          "size": 490451
+        },
+        {
+          "start": 828,
+          "end": 834,
+          "url": "segment-139.m4s",
+          "size": 544317
+        },
+        {
+          "start": 834,
+          "end": 840,
+          "url": "segment-140.m4s",
+          "size": 611183
+        },
+        {
+          "start": 840,
+          "end": 846,
+          "url": "segment-141.m4s",
+          "size": 521608
+        },
+        {
+          "start": 846,
+          "end": 852,
+          "url": "segment-142.m4s",
+          "size": 550948
+        },
+        {
+          "start": 852,
+          "end": 858,
+          "url": "segment-143.m4s",
+          "size": 495546
+        },
+        {
+          "start": 858,
+          "end": 864,
+          "url": "segment-144.m4s",
+          "size": 395118
+        },
+        {
+          "start": 864,
+          "end": 870,
+          "url": "segment-145.m4s",
+          "size": 336996
+        },
+        {
+          "start": 870,
+          "end": 876,
+          "url": "segment-146.m4s",
+          "size": 309061
+        },
+        {
+          "start": 876,
+          "end": 882,
+          "url": "segment-147.m4s",
+          "size": 390917
+        },
+        {
+          "start": 882,
+          "end": 888,
+          "url": "segment-148.m4s",
+          "size": 337811
+        },
+        {
+          "start": 888,
+          "end": 894,
+          "url": "segment-149.m4s",
+          "size": 158250
+        },
+        {
+          "start": 894,
+          "end": 900,
+          "url": "segment-150.m4s",
+          "size": 351016
+        },
+        {
+          "start": 900,
+          "end": 906,
+          "url": "segment-151.m4s",
+          "size": 376645
+        },
+        {
+          "start": 906,
+          "end": 912,
+          "url": "segment-152.m4s",
+          "size": 376785
+        },
+        {
+          "start": 912,
+          "end": 918,
+          "url": "segment-153.m4s",
+          "size": 555779
+        },
+        {
+          "start": 918,
+          "end": 924,
+          "url": "segment-154.m4s",
+          "size": 476230
+        },
+        {
+          "start": 924,
+          "end": 930,
+          "url": "segment-155.m4s",
+          "size": 581618
+        },
+        {
+          "start": 930,
+          "end": 936,
+          "url": "segment-156.m4s",
+          "size": 649940
+        },
+        {
+          "start": 936,
+          "end": 942,
+          "url": "segment-157.m4s",
+          "size": 584252
+        },
+        {
+          "start": 942,
+          "end": 948,
+          "url": "segment-158.m4s",
+          "size": 517799
+        },
+        {
+          "start": 948,
+          "end": 954,
+          "url": "segment-159.m4s",
+          "size": 1110814
+        },
+        {
+          "start": 954,
+          "end": 960,
+          "url": "segment-160.m4s",
+          "size": 388181
+        },
+        {
+          "start": 960,
+          "end": 966,
+          "url": "segment-161.m4s",
+          "size": 552107
+        },
+        {
+          "start": 966,
+          "end": 972,
+          "url": "segment-162.m4s",
+          "size": 537078
+        },
+        {
+          "start": 972,
+          "end": 978,
+          "url": "segment-163.m4s",
+          "size": 630713
+        },
+        {
+          "start": 978,
+          "end": 984,
+          "url": "segment-164.m4s",
+          "size": 703299
+        },
+        {
+          "start": 984,
+          "end": 990,
+          "url": "segment-165.m4s",
+          "size": 665842
+        },
+        {
+          "start": 990,
+          "end": 996,
+          "url": "segment-166.m4s",
+          "size": 680902
+        },
+        {
+          "start": 996,
+          "end": 1002,
+          "url": "segment-167.m4s",
+          "size": 741894
+        },
+        {
+          "start": 1002,
+          "end": 1008,
+          "url": "segment-168.m4s",
+          "size": 933174
+        },
+        {
+          "start": 1008,
+          "end": 1014,
+          "url": "segment-169.m4s",
+          "size": 598672
+        },
+        {
+          "start": 1014,
+          "end": 1020,
+          "url": "segment-170.m4s",
+          "size": 437315
+        },
+        {
+          "start": 1020,
+          "end": 1026,
+          "url": "segment-171.m4s",
+          "size": 300545
+        },
+        {
+          "start": 1026,
+          "end": 1032,
+          "url": "segment-172.m4s",
+          "size": 31317
+        },
+        {
+          "start": 1032,
+          "end": 1038,
+          "url": "segment-173.m4s",
+          "size": 9865
+        },
+        {
+          "start": 1038,
+          "end": 1044,
+          "url": "segment-174.m4s",
+          "size": 20965
+        },
+        {
+          "start": 1044,
+          "end": 1050,
+          "url": "segment-175.m4s",
+          "size": 21093
+        },
+        {
+          "start": 1050,
+          "end": 1056,
+          "url": "segment-176.m4s",
+          "size": 4872
+        },
+        {
+          "start": 1056,
+          "end": 1062,
+          "url": "segment-177.m4s",
+          "size": 19572
+        },
+        {
+          "start": 1062,
+          "end": 1068,
+          "url": "segment-178.m4s",
+          "size": 15323
+        },
+        {
+          "start": 1068,
+          "end": 1074,
+          "url": "segment-179.m4s",
+          "size": 13113
+        },
+        {
+          "start": 1074,
+          "end": 1080,
+          "url": "segment-180.m4s",
+          "size": 25981
+        },
+        {
+          "start": 1080,
+          "end": 1086,
+          "url": "segment-181.m4s",
+          "size": 22932
+        },
+        {
+          "start": 1086,
+          "end": 1092,
+          "url": "segment-182.m4s",
+          "size": 24812
+        },
+        {
+          "start": 1092,
+          "end": 1098,
+          "url": "segment-183.m4s",
+          "size": 12905
+        },
+        {
+          "start": 1098,
+          "end": 1104,
+          "url": "segment-184.m4s",
+          "size": 13135
+        },
+        {
+          "start": 1104,
+          "end": 1110,
+          "url": "segment-185.m4s",
+          "size": 4090
+        },
+        {
+          "start": 1110,
+          "end": 1116.75,
+          "url": "segment-186.m4s",
+          "size": 8545
+        }
+      ]
+    },
+    {
+      "id": "846142429",
+      "base_url": "846142429/chop/",
+      "format": "mp42",
+      "mime_type": "video/mp4",
+      "codecs": "avc1.64001E",
+      "bitrate": 527000,
+      "avg_bitrate": 297000,
+      "duration": 1116.75,
+      "framerate": 24,
+      "width": 640,
+      "height": 360,
+      "max_segment_duration": 7,
+      "init_segment": "AAAAHGZ0eXBpc281AAACAGlzbzVpc282bXA0MQAAAz5tb292AAAAbG12aGQAAAAAAAAAAAAAAAAAAAPoAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACQHRyYWsAAABcdGtoZAAAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAACgAAAAWgAAAAAACRlZHRzAAAAHGVsc3QAAAAAAAAAAQAAAAAAAAQAAAEAAAAAAbhtZGlhAAAAIG1kaGQAAAAAAAAAAAAAAAAAADAAAAAAAFXEAAAAAAAtaGRscgAAAAAAAAAAdmlkZQAAAAAAAAAAAAAAAFZpZGVvSGFuZGxlcgAAAAFjbWluZgAAABR2bWhkAAAAAQAAAAAAAAAAAAAAJGRpbmYAAAAcZHJlZgAAAAAAAAABAAAADHVybCAAAAABAAABI3N0YmwAAADXc3RzZAAAAAAAAAABAAAAx2F2YzEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAACgAFoAEgAAABIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY//8AAAA6YXZjQwFkAB7/4QAeZ2QAHqzZQKAv+XAWoMDAyAAAAwAIAAADAYB4sWywAQAFaOvssiz9+PgAAAAAE2NvbHJuY2x4AAYABgAGAAAAABBwYXNwAAAAAQAAAAEAAAAUYnRydAAAAAAABHWHAAR1hwAAABBzdHRzAAAAAAAAAAAAAAAQc3RzYwAAAAAAAAAAAAAAFHN0c3oAAAAAAAAAAAAAAAAAAAAQc3RjbwAAAAAAAAAAAAAAKG12ZXgAAAAgdHJleAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAGJ1ZHRhAAAAWm1ldGEAAAAAAAAAIWhkbHIAAAAAAAAAAG1kaXJhcHBsAAAAAAAAAAAAAAAALWlsc3QAAAAlqXRvbwAAAB1kYXRhAAAAAQAAAABMYXZmNTguNjQuMTAw",
+      "segments": [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "segment-1.m4s",
+          "size": 114349
+        },
+        {
+          "start": 6,
+          "end": 12,
+          "url": "segment-2.m4s",
+          "size": 405401
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "segment-3.m4s",
+          "size": 398492
+        },
+        {
+          "start": 18,
+          "end": 24,
+          "url": "segment-4.m4s",
+          "size": 150660
+        },
+        {
+          "start": 24,
+          "end": 30,
+          "url": "segment-5.m4s",
+          "size": 187070
+        },
+        {
+          "start": 30,
+          "end": 36,
+          "url": "segment-6.m4s",
+          "size": 346304
+        },
+        {
+          "start": 36,
+          "end": 42,
+          "url": "segment-7.m4s",
+          "size": 231255
+        },
+        {
+          "start": 42,
+          "end": 48,
+          "url": "segment-8.m4s",
+          "size": 213699
+        },
+        {
+          "start": 48,
+          "end": 54,
+          "url": "segment-9.m4s",
+          "size": 333133
+        },
+        {
+          "start": 54,
+          "end": 60,
+          "url": "segment-10.m4s",
+          "size": 226549
+        },
+        {
+          "start": 60,
+          "end": 66,
+          "url": "segment-11.m4s",
+          "size": 137654
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "url": "segment-12.m4s",
+          "size": 216143
+        },
+        {
+          "start": 72,
+          "end": 78,
+          "url": "segment-13.m4s",
+          "size": 164774
+        },
+        {
+          "start": 78,
+          "end": 84,
+          "url": "segment-14.m4s",
+          "size": 265291
+        },
+        {
+          "start": 84,
+          "end": 90,
+          "url": "segment-15.m4s",
+          "size": 228487
+        },
+        {
+          "start": 90,
+          "end": 96,
+          "url": "segment-16.m4s",
+          "size": 293864
+        },
+        {
+          "start": 96,
+          "end": 102,
+          "url": "segment-17.m4s",
+          "size": 187702
+        },
+        {
+          "start": 102,
+          "end": 108,
+          "url": "segment-18.m4s",
+          "size": 351672
+        },
+        {
+          "start": 108,
+          "end": 114,
+          "url": "segment-19.m4s",
+          "size": 137334
+        },
+        {
+          "start": 114,
+          "end": 120,
+          "url": "segment-20.m4s",
+          "size": 109244
+        },
+        {
+          "start": 120,
+          "end": 126,
+          "url": "segment-21.m4s",
+          "size": 68324
+        },
+        {
+          "start": 126,
+          "end": 132,
+          "url": "segment-22.m4s",
+          "size": 97830
+        },
+        {
+          "start": 132,
+          "end": 138,
+          "url": "segment-23.m4s",
+          "size": 80830
+        },
+        {
+          "start": 138,
+          "end": 144,
+          "url": "segment-24.m4s",
+          "size": 302303
+        },
+        {
+          "start": 144,
+          "end": 150,
+          "url": "segment-25.m4s",
+          "size": 297379
+        },
+        {
+          "start": 150,
+          "end": 156,
+          "url": "segment-26.m4s",
+          "size": 311119
+        },
+        {
+          "start": 156,
+          "end": 162,
+          "url": "segment-27.m4s",
+          "size": 231414
+        },
+        {
+          "start": 162,
+          "end": 168,
+          "url": "segment-28.m4s",
+          "size": 191388
+        },
+        {
+          "start": 168,
+          "end": 174,
+          "url": "segment-29.m4s",
+          "size": 141935
+        },
+        {
+          "start": 174,
+          "end": 180,
+          "url": "segment-30.m4s",
+          "size": 252717
+        },
+        {
+          "start": 180,
+          "end": 186,
+          "url": "segment-31.m4s",
+          "size": 246737
+        },
+        {
+          "start": 186,
+          "end": 192,
+          "url": "segment-32.m4s",
+          "size": 267274
+        },
+        {
+          "start": 192,
+          "end": 198,
+          "url": "segment-33.m4s",
+          "size": 346441
+        },
+        {
+          "start": 198,
+          "end": 204,
+          "url": "segment-34.m4s",
+          "size": 393125
+        },
+        {
+          "start": 204,
+          "end": 210,
+          "url": "segment-35.m4s",
+          "size": 365641
+        },
+        {
+          "start": 210,
+          "end": 216,
+          "url": "segment-36.m4s",
+          "size": 401175
+        },
+        {
+          "start": 216,
+          "end": 222,
+          "url": "segment-37.m4s",
+          "size": 350321
+        },
+        {
+          "start": 222,
+          "end": 228,
+          "url": "segment-38.m4s",
+          "size": 225292
+        },
+        {
+          "start": 228,
+          "end": 234,
+          "url": "segment-39.m4s",
+          "size": 195916
+        },
+        {
+          "start": 234,
+          "end": 240,
+          "url": "segment-40.m4s",
+          "size": 214994
+        },
+        {
+          "start": 240,
+          "end": 246,
+          "url": "segment-41.m4s",
+          "size": 420443
+        },
+        {
+          "start": 246,
+          "end": 252,
+          "url": "segment-42.m4s",
+          "size": 385110
+        },
+        {
+          "start": 252,
+          "end": 258,
+          "url": "segment-43.m4s",
+          "size": 379253
+        },
+        {
+          "start": 258,
+          "end": 264,
+          "url": "segment-44.m4s",
+          "size": 222080
+        },
+        {
+          "start": 264,
+          "end": 270,
+          "url": "segment-45.m4s",
+          "size": 158110
+        },
+        {
+          "start": 270,
+          "end": 276,
+          "url": "segment-46.m4s",
+          "size": 266007
+        },
+        {
+          "start": 276,
+          "end": 282,
+          "url": "segment-47.m4s",
+          "size": 398298
+        },
+        {
+          "start": 282,
+          "end": 288,
+          "url": "segment-48.m4s",
+          "size": 264416
+        },
+        {
+          "start": 288,
+          "end": 294,
+          "url": "segment-49.m4s",
+          "size": 221079
+        },
+        {
+          "start": 294,
+          "end": 300,
+          "url": "segment-50.m4s",
+          "size": 236133
+        },
+        {
+          "start": 300,
+          "end": 306,
+          "url": "segment-51.m4s",
+          "size": 355147
+        },
+        {
+          "start": 306,
+          "end": 312,
+          "url": "segment-52.m4s",
+          "size": 375845
+        },
+        {
+          "start": 312,
+          "end": 318,
+          "url": "segment-53.m4s",
+          "size": 374565
+        },
+        {
+          "start": 318,
+          "end": 324,
+          "url": "segment-54.m4s",
+          "size": 368140
+        },
+        {
+          "start": 324,
+          "end": 330,
+          "url": "segment-55.m4s",
+          "size": 226318
+        },
+        {
+          "start": 330,
+          "end": 336,
+          "url": "segment-56.m4s",
+          "size": 347971
+        },
+        {
+          "start": 336,
+          "end": 342,
+          "url": "segment-57.m4s",
+          "size": 184128
+        },
+        {
+          "start": 342,
+          "end": 348,
+          "url": "segment-58.m4s",
+          "size": 228234
+        },
+        {
+          "start": 348,
+          "end": 354,
+          "url": "segment-59.m4s",
+          "size": 149836
+        },
+        {
+          "start": 354,
+          "end": 360,
+          "url": "segment-60.m4s",
+          "size": 124944
+        },
+        {
+          "start": 360,
+          "end": 366,
+          "url": "segment-61.m4s",
+          "size": 171159
+        },
+        {
+          "start": 366,
+          "end": 372,
+          "url": "segment-62.m4s",
+          "size": 200381
+        },
+        {
+          "start": 372,
+          "end": 378,
+          "url": "segment-63.m4s",
+          "size": 239976
+        },
+        {
+          "start": 378,
+          "end": 384,
+          "url": "segment-64.m4s",
+          "size": 309999
+        },
+        {
+          "start": 384,
+          "end": 390,
+          "url": "segment-65.m4s",
+          "size": 287720
+        },
+        {
+          "start": 390,
+          "end": 396,
+          "url": "segment-66.m4s",
+          "size": 228895
+        },
+        {
+          "start": 396,
+          "end": 402,
+          "url": "segment-67.m4s",
+          "size": 365517
+        },
+        {
+          "start": 402,
+          "end": 408,
+          "url": "segment-68.m4s",
+          "size": 248905
+        },
+        {
+          "start": 408,
+          "end": 414,
+          "url": "segment-69.m4s",
+          "size": 244531
+        },
+        {
+          "start": 414,
+          "end": 420,
+          "url": "segment-70.m4s",
+          "size": 137969
+        },
+        {
+          "start": 420,
+          "end": 426,
+          "url": "segment-71.m4s",
+          "size": 74553
+        },
+        {
+          "start": 426,
+          "end": 432,
+          "url": "segment-72.m4s",
+          "size": 114250
+        },
+        {
+          "start": 432,
+          "end": 438,
+          "url": "segment-73.m4s",
+          "size": 274336
+        },
+        {
+          "start": 438,
+          "end": 444,
+          "url": "segment-74.m4s",
+          "size": 387895
+        },
+        {
+          "start": 444,
+          "end": 450,
+          "url": "segment-75.m4s",
+          "size": 310635
+        },
+        {
+          "start": 450,
+          "end": 456,
+          "url": "segment-76.m4s",
+          "size": 315510
+        },
+        {
+          "start": 456,
+          "end": 462,
+          "url": "segment-77.m4s",
+          "size": 259656
+        },
+        {
+          "start": 462,
+          "end": 468,
+          "url": "segment-78.m4s",
+          "size": 177400
+        },
+        {
+          "start": 468,
+          "end": 474,
+          "url": "segment-79.m4s",
+          "size": 100503
+        },
+        {
+          "start": 474,
+          "end": 480,
+          "url": "segment-80.m4s",
+          "size": 112725
+        },
+        {
+          "start": 480,
+          "end": 486,
+          "url": "segment-81.m4s",
+          "size": 144736
+        },
+        {
+          "start": 486,
+          "end": 492,
+          "url": "segment-82.m4s",
+          "size": 292686
+        },
+        {
+          "start": 492,
+          "end": 498,
+          "url": "segment-83.m4s",
+          "size": 237492
+        },
+        {
+          "start": 498,
+          "end": 504,
+          "url": "segment-84.m4s",
+          "size": 238232
+        },
+        {
+          "start": 504,
+          "end": 510,
+          "url": "segment-85.m4s",
+          "size": 265514
+        },
+        {
+          "start": 510,
+          "end": 516,
+          "url": "segment-86.m4s",
+          "size": 201678
+        },
+        {
+          "start": 516,
+          "end": 522,
+          "url": "segment-87.m4s",
+          "size": 201862
+        },
+        {
+          "start": 522,
+          "end": 528,
+          "url": "segment-88.m4s",
+          "size": 333069
+        },
+        {
+          "start": 528,
+          "end": 534,
+          "url": "segment-89.m4s",
+          "size": 278505
+        },
+        {
+          "start": 534,
+          "end": 540,
+          "url": "segment-90.m4s",
+          "size": 178907
+        },
+        {
+          "start": 540,
+          "end": 546,
+          "url": "segment-91.m4s",
+          "size": 143359
+        },
+        {
+          "start": 546,
+          "end": 552,
+          "url": "segment-92.m4s",
+          "size": 128405
+        },
+        {
+          "start": 552,
+          "end": 558,
+          "url": "segment-93.m4s",
+          "size": 121366
+        },
+        {
+          "start": 558,
+          "end": 564,
+          "url": "segment-94.m4s",
+          "size": 158520
+        },
+        {
+          "start": 564,
+          "end": 570,
+          "url": "segment-95.m4s",
+          "size": 163074
+        },
+        {
+          "start": 570,
+          "end": 576,
+          "url": "segment-96.m4s",
+          "size": 174998
+        },
+        {
+          "start": 576,
+          "end": 582,
+          "url": "segment-97.m4s",
+          "size": 162152
+        },
+        {
+          "start": 582,
+          "end": 588,
+          "url": "segment-98.m4s",
+          "size": 165578
+        },
+        {
+          "start": 588,
+          "end": 594,
+          "url": "segment-99.m4s",
+          "size": 191633
+        },
+        {
+          "start": 594,
+          "end": 600,
+          "url": "segment-100.m4s",
+          "size": 187739
+        },
+        {
+          "start": 600,
+          "end": 606,
+          "url": "segment-101.m4s",
+          "size": 197375
+        },
+        {
+          "start": 606,
+          "end": 612,
+          "url": "segment-102.m4s",
+          "size": 184811
+        },
+        {
+          "start": 612,
+          "end": 618,
+          "url": "segment-103.m4s",
+          "size": 156712
+        },
+        {
+          "start": 618,
+          "end": 624,
+          "url": "segment-104.m4s",
+          "size": 156234
+        },
+        {
+          "start": 624,
+          "end": 630,
+          "url": "segment-105.m4s",
+          "size": 168049
+        },
+        {
+          "start": 630,
+          "end": 636,
+          "url": "segment-106.m4s",
+          "size": 197036
+        },
+        {
+          "start": 636,
+          "end": 642,
+          "url": "segment-107.m4s",
+          "size": 278067
+        },
+        {
+          "start": 642,
+          "end": 648,
+          "url": "segment-108.m4s",
+          "size": 167954
+        },
+        {
+          "start": 648,
+          "end": 654,
+          "url": "segment-109.m4s",
+          "size": 142581
+        },
+        {
+          "start": 654,
+          "end": 660,
+          "url": "segment-110.m4s",
+          "size": 165277
+        },
+        {
+          "start": 660,
+          "end": 666,
+          "url": "segment-111.m4s",
+          "size": 181644
+        },
+        {
+          "start": 666,
+          "end": 672,
+          "url": "segment-112.m4s",
+          "size": 161822
+        },
+        {
+          "start": 672,
+          "end": 678,
+          "url": "segment-113.m4s",
+          "size": 132115
+        },
+        {
+          "start": 678,
+          "end": 684,
+          "url": "segment-114.m4s",
+          "size": 210143
+        },
+        {
+          "start": 684,
+          "end": 690,
+          "url": "segment-115.m4s",
+          "size": 214214
+        },
+        {
+          "start": 690,
+          "end": 696,
+          "url": "segment-116.m4s",
+          "size": 377949
+        },
+        {
+          "start": 696,
+          "end": 702,
+          "url": "segment-117.m4s",
+          "size": 430791
+        },
+        {
+          "start": 702,
+          "end": 708,
+          "url": "segment-118.m4s",
+          "size": 377407
+        },
+        {
+          "start": 708,
+          "end": 714,
+          "url": "segment-119.m4s",
+          "size": 222675
+        },
+        {
+          "start": 714,
+          "end": 720,
+          "url": "segment-120.m4s",
+          "size": 101202
+        },
+        {
+          "start": 720,
+          "end": 726,
+          "url": "segment-121.m4s",
+          "size": 306220
+        },
+        {
+          "start": 726,
+          "end": 732,
+          "url": "segment-122.m4s",
+          "size": 206178
+        },
+        {
+          "start": 732,
+          "end": 738,
+          "url": "segment-123.m4s",
+          "size": 336807
+        },
+        {
+          "start": 738,
+          "end": 744,
+          "url": "segment-124.m4s",
+          "size": 253657
+        },
+        {
+          "start": 744,
+          "end": 750,
+          "url": "segment-125.m4s",
+          "size": 181329
+        },
+        {
+          "start": 750,
+          "end": 756,
+          "url": "segment-126.m4s",
+          "size": 372762
+        },
+        {
+          "start": 756,
+          "end": 762,
+          "url": "segment-127.m4s",
+          "size": 347833
+        },
+        {
+          "start": 762,
+          "end": 768,
+          "url": "segment-128.m4s",
+          "size": 277997
+        },
+        {
+          "start": 768,
+          "end": 774,
+          "url": "segment-129.m4s",
+          "size": 219467
+        },
+        {
+          "start": 774,
+          "end": 780,
+          "url": "segment-130.m4s",
+          "size": 263522
+        },
+        {
+          "start": 780,
+          "end": 786,
+          "url": "segment-131.m4s",
+          "size": 247245
+        },
+        {
+          "start": 786,
+          "end": 792,
+          "url": "segment-132.m4s",
+          "size": 270063
+        },
+        {
+          "start": 792,
+          "end": 798,
+          "url": "segment-133.m4s",
+          "size": 351219
+        },
+        {
+          "start": 798,
+          "end": 804,
+          "url": "segment-134.m4s",
+          "size": 211714
+        },
+        {
+          "start": 804,
+          "end": 810,
+          "url": "segment-135.m4s",
+          "size": 224785
+        },
+        {
+          "start": 810,
+          "end": 816,
+          "url": "segment-136.m4s",
+          "size": 296642
+        },
+        {
+          "start": 816,
+          "end": 822,
+          "url": "segment-137.m4s",
+          "size": 397338
+        },
+        {
+          "start": 822,
+          "end": 828,
+          "url": "segment-138.m4s",
+          "size": 228190
+        },
+        {
+          "start": 828,
+          "end": 834,
+          "url": "segment-139.m4s",
+          "size": 256019
+        },
+        {
+          "start": 834,
+          "end": 840,
+          "url": "segment-140.m4s",
+          "size": 307336
+        },
+        {
+          "start": 840,
+          "end": 846,
+          "url": "segment-141.m4s",
+          "size": 279728
+        },
+        {
+          "start": 846,
+          "end": 852,
+          "url": "segment-142.m4s",
+          "size": 302029
+        },
+        {
+          "start": 852,
+          "end": 858,
+          "url": "segment-143.m4s",
+          "size": 273051
+        },
+        {
+          "start": 858,
+          "end": 864,
+          "url": "segment-144.m4s",
+          "size": 200572
+        },
+        {
+          "start": 864,
+          "end": 870,
+          "url": "segment-145.m4s",
+          "size": 149472
+        },
+        {
+          "start": 870,
+          "end": 876,
+          "url": "segment-146.m4s",
+          "size": 139370
+        },
+        {
+          "start": 876,
+          "end": 882,
+          "url": "segment-147.m4s",
+          "size": 186981
+        },
+        {
+          "start": 882,
+          "end": 888,
+          "url": "segment-148.m4s",
+          "size": 161908
+        },
+        {
+          "start": 888,
+          "end": 894,
+          "url": "segment-149.m4s",
+          "size": 66402
+        },
+        {
+          "start": 894,
+          "end": 900,
+          "url": "segment-150.m4s",
+          "size": 161195
+        },
+        {
+          "start": 900,
+          "end": 906,
+          "url": "segment-151.m4s",
+          "size": 197929
+        },
+        {
+          "start": 906,
+          "end": 912,
+          "url": "segment-152.m4s",
+          "size": 193891
+        },
+        {
+          "start": 912,
+          "end": 918,
+          "url": "segment-153.m4s",
+          "size": 270726
+        },
+        {
+          "start": 918,
+          "end": 924,
+          "url": "segment-154.m4s",
+          "size": 230210
+        },
+        {
+          "start": 924,
+          "end": 930,
+          "url": "segment-155.m4s",
+          "size": 277786
+        },
+        {
+          "start": 930,
+          "end": 936,
+          "url": "segment-156.m4s",
+          "size": 331726
+        },
+        {
+          "start": 936,
+          "end": 942,
+          "url": "segment-157.m4s",
+          "size": 293379
+        },
+        {
+          "start": 942,
+          "end": 948,
+          "url": "segment-158.m4s",
+          "size": 244985
+        },
+        {
+          "start": 948,
+          "end": 954,
+          "url": "segment-159.m4s",
+          "size": 392497
+        },
+        {
+          "start": 954,
+          "end": 960,
+          "url": "segment-160.m4s",
+          "size": 190595
+        },
+        {
+          "start": 960,
+          "end": 966,
+          "url": "segment-161.m4s",
+          "size": 270575
+        },
+        {
+          "start": 966,
+          "end": 972,
+          "url": "segment-162.m4s",
+          "size": 243869
+        },
+        {
+          "start": 972,
+          "end": 978,
+          "url": "segment-163.m4s",
+          "size": 296649
+        },
+        {
+          "start": 978,
+          "end": 984,
+          "url": "segment-164.m4s",
+          "size": 337916
+        },
+        {
+          "start": 984,
+          "end": 990,
+          "url": "segment-165.m4s",
+          "size": 335714
+        },
+        {
+          "start": 990,
+          "end": 996,
+          "url": "segment-166.m4s",
+          "size": 336826
+        },
+        {
+          "start": 996,
+          "end": 1002,
+          "url": "segment-167.m4s",
+          "size": 374299
+        },
+        {
+          "start": 1002,
+          "end": 1008,
+          "url": "segment-168.m4s",
+          "size": 387567
+        },
+        {
+          "start": 1008,
+          "end": 1014,
+          "url": "segment-169.m4s",
+          "size": 212539
+        },
+        {
+          "start": 1014,
+          "end": 1020,
+          "url": "segment-170.m4s",
+          "size": 158436
+        },
+        {
+          "start": 1020,
+          "end": 1026,
+          "url": "segment-171.m4s",
+          "size": 113247
+        },
+        {
+          "start": 1026,
+          "end": 1032,
+          "url": "segment-172.m4s",
+          "size": 20836
+        },
+        {
+          "start": 1032,
+          "end": 1038,
+          "url": "segment-173.m4s",
+          "size": 8567
+        },
+        {
+          "start": 1038,
+          "end": 1044,
+          "url": "segment-174.m4s",
+          "size": 14093
+        },
+        {
+          "start": 1044,
+          "end": 1050,
+          "url": "segment-175.m4s",
+          "size": 14962
+        },
+        {
+          "start": 1050,
+          "end": 1056,
+          "url": "segment-176.m4s",
+          "size": 6486
+        },
+        {
+          "start": 1056,
+          "end": 1062,
+          "url": "segment-177.m4s",
+          "size": 13599
+        },
+        {
+          "start": 1062,
+          "end": 1068,
+          "url": "segment-178.m4s",
+          "size": 10945
+        },
+        {
+          "start": 1068,
+          "end": 1074,
+          "url": "segment-179.m4s",
+          "size": 11159
+        },
+        {
+          "start": 1074,
+          "end": 1080,
+          "url": "segment-180.m4s",
+          "size": 17002
+        },
+        {
+          "start": 1080,
+          "end": 1086,
+          "url": "segment-181.m4s",
+          "size": 15080
+        },
+        {
+          "start": 1086,
+          "end": 1092,
+          "url": "segment-182.m4s",
+          "size": 15966
+        },
+        {
+          "start": 1092,
+          "end": 1098,
+          "url": "segment-183.m4s",
+          "size": 9155
+        },
+        {
+          "start": 1098,
+          "end": 1104,
+          "url": "segment-184.m4s",
+          "size": 9428
+        },
+        {
+          "start": 1104,
+          "end": 1110,
+          "url": "segment-185.m4s",
+          "size": 3713
+        },
+        {
+          "start": 1110,
+          "end": 1116.75,
+          "url": "segment-186.m4s",
+          "size": 7408
+        }
+      ]
+    },
+    {
+      "id": "846142430",
+      "base_url": "846142430/chop/",
+      "format": "mp42",
+      "mime_type": "video/mp4",
+      "codecs": "avc1.640028",
+      "bitrate": 5536000,
+      "avg_bitrate": 3743000,
+      "duration": 1116.75,
+      "framerate": 24,
+      "width": 1920,
+      "height": 1080,
+      "max_segment_duration": 7,
+      "init_segment": "AAAAHGZ0eXBpc281AAACAGlzbzVpc282bXA0MQAAAz5tb292AAAAbG12aGQAAAAAAAAAAAAAAAAAAAPoAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACQHRyYWsAAABcdGtoZAAAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAHgAAABDgAAAAAACRlZHRzAAAAHGVsc3QAAAAAAAAAAQAAAAAAAAQAAAEAAAAAAbhtZGlhAAAAIG1kaGQAAAAAAAAAAAAAAAAAADAAAAAAAFXEAAAAAAAtaGRscgAAAAAAAAAAdmlkZQAAAAAAAAAAAAAAAFZpZGVvSGFuZGxlcgAAAAFjbWluZgAAABR2bWhkAAAAAQAAAAAAAAAAAAAAJGRpbmYAAAAcZHJlZgAAAAAAAAABAAAADHVybCAAAAABAAABI3N0YmwAAADXc3RzZAAAAAAAAAABAAAAx2F2YzEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAHgAQ4AEgAAABIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY//8AAAA6YXZjQwFkACj/4QAeZ2QAKKzZQHgCJ+XAWoCAgKAAAAMAIAAABgHjBjLAAQAFaOk7LIv9+PgAAAAAE2NvbHJuY2x4AAEAAQABAAAAABBwYXNwAAAAAQAAAAEAAAAUYnRydAAAAAAAOP+EADj/hAAAABBzdHRzAAAAAAAAAAAAAAAQc3RzYwAAAAAAAAAAAAAAFHN0c3oAAAAAAAAAAAAAAAAAAAAQc3RjbwAAAAAAAAAAAAAAKG12ZXgAAAAgdHJleAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAGJ1ZHRhAAAAWm1ldGEAAAAAAAAAIWhkbHIAAAAAAAAAAG1kaXJhcHBsAAAAAAAAAAAAAAAALWlsc3QAAAAlqXRvbwAAAB1kYXRhAAAAAQAAAABMYXZmNTguNjQuMTAw",
+      "segments": [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "segment-1.m4s",
+          "size": 837399
+        },
+        {
+          "start": 6,
+          "end": 12,
+          "url": "segment-2.m4s",
+          "size": 4218903
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "segment-3.m4s",
+          "size": 4131902
+        },
+        {
+          "start": 18,
+          "end": 24,
+          "url": "segment-4.m4s",
+          "size": 2648044
+        },
+        {
+          "start": 24,
+          "end": 30,
+          "url": "segment-5.m4s",
+          "size": 2884476
+        },
+        {
+          "start": 30,
+          "end": 36,
+          "url": "segment-6.m4s",
+          "size": 4232547
+        },
+        {
+          "start": 36,
+          "end": 42,
+          "url": "segment-7.m4s",
+          "size": 3392124
+        },
+        {
+          "start": 42,
+          "end": 48,
+          "url": "segment-8.m4s",
+          "size": 3093262
+        },
+        {
+          "start": 48,
+          "end": 54,
+          "url": "segment-9.m4s",
+          "size": 2618484
+        },
+        {
+          "start": 54,
+          "end": 60,
+          "url": "segment-10.m4s",
+          "size": 2698929
+        },
+        {
+          "start": 60,
+          "end": 66,
+          "url": "segment-11.m4s",
+          "size": 3941208
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "url": "segment-12.m4s",
+          "size": 4052677
+        },
+        {
+          "start": 72,
+          "end": 78,
+          "url": "segment-13.m4s",
+          "size": 1851265
+        },
+        {
+          "start": 78,
+          "end": 84,
+          "url": "segment-14.m4s",
+          "size": 3136042
+        },
+        {
+          "start": 84,
+          "end": 90,
+          "url": "segment-15.m4s",
+          "size": 3059299
+        },
+        {
+          "start": 90,
+          "end": 96,
+          "url": "segment-16.m4s",
+          "size": 3605695
+        },
+        {
+          "start": 96,
+          "end": 102,
+          "url": "segment-17.m4s",
+          "size": 3166738
+        },
+        {
+          "start": 102,
+          "end": 108,
+          "url": "segment-18.m4s",
+          "size": 3458011
+        },
+        {
+          "start": 108,
+          "end": 114,
+          "url": "segment-19.m4s",
+          "size": 2893349
+        },
+        {
+          "start": 114,
+          "end": 120,
+          "url": "segment-20.m4s",
+          "size": 1372580
+        },
+        {
+          "start": 120,
+          "end": 126,
+          "url": "segment-21.m4s",
+          "size": 1253299
+        },
+        {
+          "start": 126,
+          "end": 132,
+          "url": "segment-22.m4s",
+          "size": 2248738
+        },
+        {
+          "start": 132,
+          "end": 138,
+          "url": "segment-23.m4s",
+          "size": 2180034
+        },
+        {
+          "start": 138,
+          "end": 144,
+          "url": "segment-24.m4s",
+          "size": 3223865
+        },
+        {
+          "start": 144,
+          "end": 150,
+          "url": "segment-25.m4s",
+          "size": 4008752
+        },
+        {
+          "start": 150,
+          "end": 156,
+          "url": "segment-26.m4s",
+          "size": 3420261
+        },
+        {
+          "start": 156,
+          "end": 162,
+          "url": "segment-27.m4s",
+          "size": 3300273
+        },
+        {
+          "start": 162,
+          "end": 168,
+          "url": "segment-28.m4s",
+          "size": 2638768
+        },
+        {
+          "start": 168,
+          "end": 174,
+          "url": "segment-29.m4s",
+          "size": 1349017
+        },
+        {
+          "start": 174,
+          "end": 180,
+          "url": "segment-30.m4s",
+          "size": 2870966
+        },
+        {
+          "start": 180,
+          "end": 186,
+          "url": "segment-31.m4s",
+          "size": 3201531
+        },
+        {
+          "start": 186,
+          "end": 192,
+          "url": "segment-32.m4s",
+          "size": 3184746
+        },
+        {
+          "start": 192,
+          "end": 198,
+          "url": "segment-33.m4s",
+          "size": 4246064
+        },
+        {
+          "start": 198,
+          "end": 204,
+          "url": "segment-34.m4s",
+          "size": 3920478
+        },
+        {
+          "start": 204,
+          "end": 210,
+          "url": "segment-35.m4s",
+          "size": 3469296
+        },
+        {
+          "start": 210,
+          "end": 216,
+          "url": "segment-36.m4s",
+          "size": 3997697
+        },
+        {
+          "start": 216,
+          "end": 222,
+          "url": "segment-37.m4s",
+          "size": 3914068
+        },
+        {
+          "start": 222,
+          "end": 228,
+          "url": "segment-38.m4s",
+          "size": 3744751
+        },
+        {
+          "start": 228,
+          "end": 234,
+          "url": "segment-39.m4s",
+          "size": 3611229
+        },
+        {
+          "start": 234,
+          "end": 240,
+          "url": "segment-40.m4s",
+          "size": 3700827
+        },
+        {
+          "start": 240,
+          "end": 246,
+          "url": "segment-41.m4s",
+          "size": 4036113
+        },
+        {
+          "start": 246,
+          "end": 252,
+          "url": "segment-42.m4s",
+          "size": 4328216
+        },
+        {
+          "start": 252,
+          "end": 258,
+          "url": "segment-43.m4s",
+          "size": 4091641
+        },
+        {
+          "start": 258,
+          "end": 264,
+          "url": "segment-44.m4s",
+          "size": 2308252
+        },
+        {
+          "start": 264,
+          "end": 270,
+          "url": "segment-45.m4s",
+          "size": 2391407
+        },
+        {
+          "start": 270,
+          "end": 276,
+          "url": "segment-46.m4s",
+          "size": 2617698
+        },
+        {
+          "start": 276,
+          "end": 282,
+          "url": "segment-47.m4s",
+          "size": 3883491
+        },
+        {
+          "start": 282,
+          "end": 288,
+          "url": "segment-48.m4s",
+          "size": 3266414
+        },
+        {
+          "start": 288,
+          "end": 294,
+          "url": "segment-49.m4s",
+          "size": 2471314
+        },
+        {
+          "start": 294,
+          "end": 300,
+          "url": "segment-50.m4s",
+          "size": 2560044
+        },
+        {
+          "start": 300,
+          "end": 306,
+          "url": "segment-51.m4s",
+          "size": 3393895
+        },
+        {
+          "start": 306,
+          "end": 312,
+          "url": "segment-52.m4s",
+          "size": 3272764
+        },
+        {
+          "start": 312,
+          "end": 318,
+          "url": "segment-53.m4s",
+          "size": 3347220
+        },
+        {
+          "start": 318,
+          "end": 324,
+          "url": "segment-54.m4s",
+          "size": 3407506
+        },
+        {
+          "start": 324,
+          "end": 330,
+          "url": "segment-55.m4s",
+          "size": 2619013
+        },
+        {
+          "start": 330,
+          "end": 336,
+          "url": "segment-56.m4s",
+          "size": 3239294
+        },
+        {
+          "start": 336,
+          "end": 342,
+          "url": "segment-57.m4s",
+          "size": 2576189
+        },
+        {
+          "start": 342,
+          "end": 348,
+          "url": "segment-58.m4s",
+          "size": 3495227
+        },
+        {
+          "start": 348,
+          "end": 354,
+          "url": "segment-59.m4s",
+          "size": 2898666
+        },
+        {
+          "start": 354,
+          "end": 360,
+          "url": "segment-60.m4s",
+          "size": 3226932
+        },
+        {
+          "start": 360,
+          "end": 366,
+          "url": "segment-61.m4s",
+          "size": 3399407
+        },
+        {
+          "start": 366,
+          "end": 372,
+          "url": "segment-62.m4s",
+          "size": 2531169
+        },
+        {
+          "start": 372,
+          "end": 378,
+          "url": "segment-63.m4s",
+          "size": 3817005
+        },
+        {
+          "start": 378,
+          "end": 384,
+          "url": "segment-64.m4s",
+          "size": 3741697
+        },
+        {
+          "start": 384,
+          "end": 390,
+          "url": "segment-65.m4s",
+          "size": 4028881
+        },
+        {
+          "start": 390,
+          "end": 396,
+          "url": "segment-66.m4s",
+          "size": 3777465
+        },
+        {
+          "start": 396,
+          "end": 402,
+          "url": "segment-67.m4s",
+          "size": 3517688
+        },
+        {
+          "start": 402,
+          "end": 408,
+          "url": "segment-68.m4s",
+          "size": 3662035
+        },
+        {
+          "start": 408,
+          "end": 414,
+          "url": "segment-69.m4s",
+          "size": 3731381
+        },
+        {
+          "start": 414,
+          "end": 420,
+          "url": "segment-70.m4s",
+          "size": 2228681
+        },
+        {
+          "start": 420,
+          "end": 426,
+          "url": "segment-71.m4s",
+          "size": 1689957
+        },
+        {
+          "start": 426,
+          "end": 432,
+          "url": "segment-72.m4s",
+          "size": 2933120
+        },
+        {
+          "start": 432,
+          "end": 438,
+          "url": "segment-73.m4s",
+          "size": 3243873
+        },
+        {
+          "start": 438,
+          "end": 444,
+          "url": "segment-74.m4s",
+          "size": 3949180
+        },
+        {
+          "start": 444,
+          "end": 450,
+          "url": "segment-75.m4s",
+          "size": 3551970
+        },
+        {
+          "start": 450,
+          "end": 456,
+          "url": "segment-76.m4s",
+          "size": 3535473
+        },
+        {
+          "start": 456,
+          "end": 462,
+          "url": "segment-77.m4s",
+          "size": 3754004
+        },
+        {
+          "start": 462,
+          "end": 468,
+          "url": "segment-78.m4s",
+          "size": 2703797
+        },
+        {
+          "start": 468,
+          "end": 474,
+          "url": "segment-79.m4s",
+          "size": 3380282
+        },
+        {
+          "start": 474,
+          "end": 480,
+          "url": "segment-80.m4s",
+          "size": 3474749
+        },
+        {
+          "start": 480,
+          "end": 486,
+          "url": "segment-81.m4s",
+          "size": 1596541
+        },
+        {
+          "start": 486,
+          "end": 492,
+          "url": "segment-82.m4s",
+          "size": 3968046
+        },
+        {
+          "start": 492,
+          "end": 498,
+          "url": "segment-83.m4s",
+          "size": 3101171
+        },
+        {
+          "start": 498,
+          "end": 504,
+          "url": "segment-84.m4s",
+          "size": 3625879
+        },
+        {
+          "start": 504,
+          "end": 510,
+          "url": "segment-85.m4s",
+          "size": 3405651
+        },
+        {
+          "start": 510,
+          "end": 516,
+          "url": "segment-86.m4s",
+          "size": 3363789
+        },
+        {
+          "start": 516,
+          "end": 522,
+          "url": "segment-87.m4s",
+          "size": 4044065
+        },
+        {
+          "start": 522,
+          "end": 528,
+          "url": "segment-88.m4s",
+          "size": 2592238
+        },
+        {
+          "start": 528,
+          "end": 534,
+          "url": "segment-89.m4s",
+          "size": 2655004
+        },
+        {
+          "start": 534,
+          "end": 540,
+          "url": "segment-90.m4s",
+          "size": 2538586
+        },
+        {
+          "start": 540,
+          "end": 546,
+          "url": "segment-91.m4s",
+          "size": 3451438
+        },
+        {
+          "start": 546,
+          "end": 552,
+          "url": "segment-92.m4s",
+          "size": 2633979
+        },
+        {
+          "start": 552,
+          "end": 558,
+          "url": "segment-93.m4s",
+          "size": 2273430
+        },
+        {
+          "start": 558,
+          "end": 564,
+          "url": "segment-94.m4s",
+          "size": 2979598
+        },
+        {
+          "start": 564,
+          "end": 570,
+          "url": "segment-95.m4s",
+          "size": 3092464
+        },
+        {
+          "start": 570,
+          "end": 576,
+          "url": "segment-96.m4s",
+          "size": 3270109
+        },
+        {
+          "start": 576,
+          "end": 582,
+          "url": "segment-97.m4s",
+          "size": 3481872
+        },
+        {
+          "start": 582,
+          "end": 588,
+          "url": "segment-98.m4s",
+          "size": 2686830
+        },
+        {
+          "start": 588,
+          "end": 594,
+          "url": "segment-99.m4s",
+          "size": 2762879
+        },
+        {
+          "start": 594,
+          "end": 600,
+          "url": "segment-100.m4s",
+          "size": 2554689
+        },
+        {
+          "start": 600,
+          "end": 606,
+          "url": "segment-101.m4s",
+          "size": 3355374
+        },
+        {
+          "start": 606,
+          "end": 612,
+          "url": "segment-102.m4s",
+          "size": 3259248
+        },
+        {
+          "start": 612,
+          "end": 618,
+          "url": "segment-103.m4s",
+          "size": 2381232
+        },
+        {
+          "start": 618,
+          "end": 624,
+          "url": "segment-104.m4s",
+          "size": 2329890
+        },
+        {
+          "start": 624,
+          "end": 630,
+          "url": "segment-105.m4s",
+          "size": 2513021
+        },
+        {
+          "start": 630,
+          "end": 636,
+          "url": "segment-106.m4s",
+          "size": 2533153
+        },
+        {
+          "start": 636,
+          "end": 642,
+          "url": "segment-107.m4s",
+          "size": 2690203
+        },
+        {
+          "start": 642,
+          "end": 648,
+          "url": "segment-108.m4s",
+          "size": 3318009
+        },
+        {
+          "start": 648,
+          "end": 654,
+          "url": "segment-109.m4s",
+          "size": 3516916
+        },
+        {
+          "start": 654,
+          "end": 660,
+          "url": "segment-110.m4s",
+          "size": 3538907
+        },
+        {
+          "start": 660,
+          "end": 666,
+          "url": "segment-111.m4s",
+          "size": 3500469
+        },
+        {
+          "start": 666,
+          "end": 672,
+          "url": "segment-112.m4s",
+          "size": 2887146
+        },
+        {
+          "start": 672,
+          "end": 678,
+          "url": "segment-113.m4s",
+          "size": 2877909
+        },
+        {
+          "start": 678,
+          "end": 684,
+          "url": "segment-114.m4s",
+          "size": 3916039
+        },
+        {
+          "start": 684,
+          "end": 690,
+          "url": "segment-115.m4s",
+          "size": 3883793
+        },
+        {
+          "start": 690,
+          "end": 696,
+          "url": "segment-116.m4s",
+          "size": 3716336
+        },
+        {
+          "start": 696,
+          "end": 702,
+          "url": "segment-117.m4s",
+          "size": 4360097
+        },
+        {
+          "start": 702,
+          "end": 708,
+          "url": "segment-118.m4s",
+          "size": 4011371
+        },
+        {
+          "start": 708,
+          "end": 714,
+          "url": "segment-119.m4s",
+          "size": 3722019
+        },
+        {
+          "start": 714,
+          "end": 720,
+          "url": "segment-120.m4s",
+          "size": 1452558
+        },
+        {
+          "start": 720,
+          "end": 726,
+          "url": "segment-121.m4s",
+          "size": 3744061
+        },
+        {
+          "start": 726,
+          "end": 732,
+          "url": "segment-122.m4s",
+          "size": 2964588
+        },
+        {
+          "start": 732,
+          "end": 738,
+          "url": "segment-123.m4s",
+          "size": 3669043
+        },
+        {
+          "start": 738,
+          "end": 744,
+          "url": "segment-124.m4s",
+          "size": 3560464
+        },
+        {
+          "start": 744,
+          "end": 750,
+          "url": "segment-125.m4s",
+          "size": 2526433
+        },
+        {
+          "start": 750,
+          "end": 756,
+          "url": "segment-126.m4s",
+          "size": 2888235
+        },
+        {
+          "start": 756,
+          "end": 762,
+          "url": "segment-127.m4s",
+          "size": 2492106
+        },
+        {
+          "start": 762,
+          "end": 768,
+          "url": "segment-128.m4s",
+          "size": 2723776
+        },
+        {
+          "start": 768,
+          "end": 774,
+          "url": "segment-129.m4s",
+          "size": 2337818
+        },
+        {
+          "start": 774,
+          "end": 780,
+          "url": "segment-130.m4s",
+          "size": 2674748
+        },
+        {
+          "start": 780,
+          "end": 786,
+          "url": "segment-131.m4s",
+          "size": 2538668
+        },
+        {
+          "start": 786,
+          "end": 792,
+          "url": "segment-132.m4s",
+          "size": 2676289
+        },
+        {
+          "start": 792,
+          "end": 798,
+          "url": "segment-133.m4s",
+          "size": 3605478
+        },
+        {
+          "start": 798,
+          "end": 804,
+          "url": "segment-134.m4s",
+          "size": 2975058
+        },
+        {
+          "start": 804,
+          "end": 810,
+          "url": "segment-135.m4s",
+          "size": 2957881
+        },
+        {
+          "start": 810,
+          "end": 816,
+          "url": "segment-136.m4s",
+          "size": 2674248
+        },
+        {
+          "start": 816,
+          "end": 822,
+          "url": "segment-137.m4s",
+          "size": 3238566
+        },
+        {
+          "start": 822,
+          "end": 828,
+          "url": "segment-138.m4s",
+          "size": 2621563
+        },
+        {
+          "start": 828,
+          "end": 834,
+          "url": "segment-139.m4s",
+          "size": 3213284
+        },
+        {
+          "start": 834,
+          "end": 840,
+          "url": "segment-140.m4s",
+          "size": 2957693
+        },
+        {
+          "start": 840,
+          "end": 846,
+          "url": "segment-141.m4s",
+          "size": 2369657
+        },
+        {
+          "start": 846,
+          "end": 852,
+          "url": "segment-142.m4s",
+          "size": 2342462
+        },
+        {
+          "start": 852,
+          "end": 858,
+          "url": "segment-143.m4s",
+          "size": 2201505
+        },
+        {
+          "start": 858,
+          "end": 864,
+          "url": "segment-144.m4s",
+          "size": 1976153
+        },
+        {
+          "start": 864,
+          "end": 870,
+          "url": "segment-145.m4s",
+          "size": 2184771
+        },
+        {
+          "start": 870,
+          "end": 876,
+          "url": "segment-146.m4s",
+          "size": 1997901
+        },
+        {
+          "start": 876,
+          "end": 882,
+          "url": "segment-147.m4s",
+          "size": 2532999
+        },
+        {
+          "start": 882,
+          "end": 888,
+          "url": "segment-148.m4s",
+          "size": 2089211
+        },
+        {
+          "start": 888,
+          "end": 894,
+          "url": "segment-149.m4s",
+          "size": 775116
+        },
+        {
+          "start": 894,
+          "end": 900,
+          "url": "segment-150.m4s",
+          "size": 2097252
+        },
+        {
+          "start": 900,
+          "end": 906,
+          "url": "segment-151.m4s",
+          "size": 1674438
+        },
+        {
+          "start": 906,
+          "end": 912,
+          "url": "segment-152.m4s",
+          "size": 1848125
+        },
+        {
+          "start": 912,
+          "end": 918,
+          "url": "segment-153.m4s",
+          "size": 2164109
+        },
+        {
+          "start": 918,
+          "end": 924,
+          "url": "segment-154.m4s",
+          "size": 2475672
+        },
+        {
+          "start": 924,
+          "end": 930,
+          "url": "segment-155.m4s",
+          "size": 2541558
+        },
+        {
+          "start": 930,
+          "end": 936,
+          "url": "segment-156.m4s",
+          "size": 2499833
+        },
+        {
+          "start": 936,
+          "end": 942,
+          "url": "segment-157.m4s",
+          "size": 2447493
+        },
+        {
+          "start": 942,
+          "end": 948,
+          "url": "segment-158.m4s",
+          "size": 2465519
+        },
+        {
+          "start": 948,
+          "end": 954,
+          "url": "segment-159.m4s",
+          "size": 4174715
+        },
+        {
+          "start": 954,
+          "end": 960,
+          "url": "segment-160.m4s",
+          "size": 2274934
+        },
+        {
+          "start": 960,
+          "end": 966,
+          "url": "segment-161.m4s",
+          "size": 2626070
+        },
+        {
+          "start": 966,
+          "end": 972,
+          "url": "segment-162.m4s",
+          "size": 2796967
+        },
+        {
+          "start": 972,
+          "end": 978,
+          "url": "segment-163.m4s",
+          "size": 3551914
+        },
+        {
+          "start": 978,
+          "end": 984,
+          "url": "segment-164.m4s",
+          "size": 3758158
+        },
+        {
+          "start": 984,
+          "end": 990,
+          "url": "segment-165.m4s",
+          "size": 3838901
+        },
+        {
+          "start": 990,
+          "end": 996,
+          "url": "segment-166.m4s",
+          "size": 4019965
+        },
+        {
+          "start": 996,
+          "end": 1002,
+          "url": "segment-167.m4s",
+          "size": 3994028
+        },
+        {
+          "start": 1002,
+          "end": 1008,
+          "url": "segment-168.m4s",
+          "size": 3730965
+        },
+        {
+          "start": 1008,
+          "end": 1014,
+          "url": "segment-169.m4s",
+          "size": 3869141
+        },
+        {
+          "start": 1014,
+          "end": 1020,
+          "url": "segment-170.m4s",
+          "size": 3909213
+        },
+        {
+          "start": 1020,
+          "end": 1026,
+          "url": "segment-171.m4s",
+          "size": 2679337
+        },
+        {
+          "start": 1026,
+          "end": 1032,
+          "url": "segment-172.m4s",
+          "size": 54344
+        },
+        {
+          "start": 1032,
+          "end": 1038,
+          "url": "segment-173.m4s",
+          "size": 30050
+        },
+        {
+          "start": 1038,
+          "end": 1044,
+          "url": "segment-174.m4s",
+          "size": 36651
+        },
+        {
+          "start": 1044,
+          "end": 1050,
+          "url": "segment-175.m4s",
+          "size": 37616
+        },
+        {
+          "start": 1050,
+          "end": 1056,
+          "url": "segment-176.m4s",
+          "size": 20187
+        },
+        {
+          "start": 1056,
+          "end": 1062,
+          "url": "segment-177.m4s",
+          "size": 33354
+        },
+        {
+          "start": 1062,
+          "end": 1068,
+          "url": "segment-178.m4s",
+          "size": 24696
+        },
+        {
+          "start": 1068,
+          "end": 1074,
+          "url": "segment-179.m4s",
+          "size": 38121
+        },
+        {
+          "start": 1074,
+          "end": 1080,
+          "url": "segment-180.m4s",
+          "size": 47396
+        },
+        {
+          "start": 1080,
+          "end": 1086,
+          "url": "segment-181.m4s",
+          "size": 40574
+        },
+        {
+          "start": 1086,
+          "end": 1092,
+          "url": "segment-182.m4s",
+          "size": 45224
+        },
+        {
+          "start": 1092,
+          "end": 1098,
+          "url": "segment-183.m4s",
+          "size": 19213
+        },
+        {
+          "start": 1098,
+          "end": 1104,
+          "url": "segment-184.m4s",
+          "size": 19443
+        },
+        {
+          "start": 1104,
+          "end": 1110,
+          "url": "segment-185.m4s",
+          "size": 4232
+        },
+        {
+          "start": 1110,
+          "end": 1116.75,
+          "url": "segment-186.m4s",
+          "size": 15833
+        }
+      ]
+    },
+    {
+      "id": "846142433",
+      "base_url": "846142433/chop/",
+      "format": "mp42",
+      "mime_type": "video/mp4",
+      "codecs": "avc1.640020",
+      "bitrate": 2381000,
+      "avg_bitrate": 1215000,
+      "duration": 1116.75,
+      "framerate": 24,
+      "width": 1280,
+      "height": 720,
+      "max_segment_duration": 7,
+      "init_segment": "AAAAHGZ0eXBpc281AAACAGlzbzVpc282bXA0MQAAAzxtb292AAAAbG12aGQAAAAAAAAAAAAAAAAAAAPoAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACPnRyYWsAAABcdGtoZAAAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAtAAAAAAACRlZHRzAAAAHGVsc3QAAAAAAAAAAQAAAAAAAAQAAAEAAAAAAbZtZGlhAAAAIG1kaGQAAAAAAAAAAAAAAAAAADAAAAAAAFXEAAAAAAAtaGRscgAAAAAAAAAAdmlkZQAAAAAAAAAAAAAAAFZpZGVvSGFuZGxlcgAAAAFhbWluZgAAABR2bWhkAAAAAQAAAAAAAAAAAAAAJGRpbmYAAAAcZHJlZgAAAAAAAAABAAAADHVybCAAAAABAAABIXN0YmwAAADVc3RzZAAAAAAAAAABAAAAxWF2YzEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAFAALQAEgAAABIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY//8AAAA4YXZjQwFkACD/4QAcZ2QAIKzZgFAFuwFqAgICgAAAAwCAAAAYB4wYzQEABWjpeyyL/fj4AAAAABNjb2xybmNseAABAAEAAQAAAAAQcGFzcAAAAAEAAAABAAAAFGJ0cnQAAAAAABJ13wASdd8AAAAQc3R0cwAAAAAAAAAAAAAAEHN0c2MAAAAAAAAAAAAAABRzdHN6AAAAAAAAAAAAAAAAAAAAEHN0Y28AAAAAAAAAAAAAAChtdmV4AAAAIHRyZXgAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAABidWR0YQAAAFptZXRhAAAAAAAAACFoZGxyAAAAAAAAAABtZGlyYXBwbAAAAAAAAAAAAAAAAC1pbHN0AAAAJal0b28AAAAdZGF0YQAAAAEAAAAATGF2ZjU4LjY0LjEwMA==",
+      "segments": [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "segment-1.m4s",
+          "size": 517770
+        },
+        {
+          "start": 6,
+          "end": 12,
+          "url": "segment-2.m4s",
+          "size": 2075081
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "segment-3.m4s",
+          "size": 2023793
+        },
+        {
+          "start": 18,
+          "end": 24,
+          "url": "segment-4.m4s",
+          "size": 925670
+        },
+        {
+          "start": 24,
+          "end": 30,
+          "url": "segment-5.m4s",
+          "size": 1013880
+        },
+        {
+          "start": 30,
+          "end": 36,
+          "url": "segment-6.m4s",
+          "size": 1686553
+        },
+        {
+          "start": 36,
+          "end": 42,
+          "url": "segment-7.m4s",
+          "size": 1014516
+        },
+        {
+          "start": 42,
+          "end": 48,
+          "url": "segment-8.m4s",
+          "size": 773111
+        },
+        {
+          "start": 48,
+          "end": 54,
+          "url": "segment-9.m4s",
+          "size": 1124110
+        },
+        {
+          "start": 54,
+          "end": 60,
+          "url": "segment-10.m4s",
+          "size": 911810
+        },
+        {
+          "start": 60,
+          "end": 66,
+          "url": "segment-11.m4s",
+          "size": 713504
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "url": "segment-12.m4s",
+          "size": 748319
+        },
+        {
+          "start": 72,
+          "end": 78,
+          "url": "segment-13.m4s",
+          "size": 695132
+        },
+        {
+          "start": 78,
+          "end": 84,
+          "url": "segment-14.m4s",
+          "size": 1192521
+        },
+        {
+          "start": 84,
+          "end": 90,
+          "url": "segment-15.m4s",
+          "size": 1187771
+        },
+        {
+          "start": 90,
+          "end": 96,
+          "url": "segment-16.m4s",
+          "size": 1667600
+        },
+        {
+          "start": 96,
+          "end": 102,
+          "url": "segment-17.m4s",
+          "size": 836173
+        },
+        {
+          "start": 102,
+          "end": 108,
+          "url": "segment-18.m4s",
+          "size": 1209087
+        },
+        {
+          "start": 108,
+          "end": 114,
+          "url": "segment-19.m4s",
+          "size": 654180
+        },
+        {
+          "start": 114,
+          "end": 120,
+          "url": "segment-20.m4s",
+          "size": 454419
+        },
+        {
+          "start": 120,
+          "end": 126,
+          "url": "segment-21.m4s",
+          "size": 307628
+        },
+        {
+          "start": 126,
+          "end": 132,
+          "url": "segment-22.m4s",
+          "size": 397980
+        },
+        {
+          "start": 132,
+          "end": 138,
+          "url": "segment-23.m4s",
+          "size": 354431
+        },
+        {
+          "start": 138,
+          "end": 144,
+          "url": "segment-24.m4s",
+          "size": 1550949
+        },
+        {
+          "start": 144,
+          "end": 150,
+          "url": "segment-25.m4s",
+          "size": 1199021
+        },
+        {
+          "start": 150,
+          "end": 156,
+          "url": "segment-26.m4s",
+          "size": 1019785
+        },
+        {
+          "start": 156,
+          "end": 162,
+          "url": "segment-27.m4s",
+          "size": 813609
+        },
+        {
+          "start": 162,
+          "end": 168,
+          "url": "segment-28.m4s",
+          "size": 712221
+        },
+        {
+          "start": 168,
+          "end": 174,
+          "url": "segment-29.m4s",
+          "size": 481754
+        },
+        {
+          "start": 174,
+          "end": 180,
+          "url": "segment-30.m4s",
+          "size": 792683
+        },
+        {
+          "start": 180,
+          "end": 186,
+          "url": "segment-31.m4s",
+          "size": 792853
+        },
+        {
+          "start": 186,
+          "end": 192,
+          "url": "segment-32.m4s",
+          "size": 886965
+        },
+        {
+          "start": 192,
+          "end": 198,
+          "url": "segment-33.m4s",
+          "size": 1546388
+        },
+        {
+          "start": 198,
+          "end": 204,
+          "url": "segment-34.m4s",
+          "size": 1860282
+        },
+        {
+          "start": 204,
+          "end": 210,
+          "url": "segment-35.m4s",
+          "size": 1440415
+        },
+        {
+          "start": 210,
+          "end": 216,
+          "url": "segment-36.m4s",
+          "size": 1635521
+        },
+        {
+          "start": 216,
+          "end": 222,
+          "url": "segment-37.m4s",
+          "size": 1447257
+        },
+        {
+          "start": 222,
+          "end": 228,
+          "url": "segment-38.m4s",
+          "size": 823871
+        },
+        {
+          "start": 228,
+          "end": 234,
+          "url": "segment-39.m4s",
+          "size": 745482
+        },
+        {
+          "start": 234,
+          "end": 240,
+          "url": "segment-40.m4s",
+          "size": 823065
+        },
+        {
+          "start": 240,
+          "end": 246,
+          "url": "segment-41.m4s",
+          "size": 1306101
+        },
+        {
+          "start": 246,
+          "end": 252,
+          "url": "segment-42.m4s",
+          "size": 1290014
+        },
+        {
+          "start": 252,
+          "end": 258,
+          "url": "segment-43.m4s",
+          "size": 1226959
+        },
+        {
+          "start": 258,
+          "end": 264,
+          "url": "segment-44.m4s",
+          "size": 987322
+        },
+        {
+          "start": 264,
+          "end": 270,
+          "url": "segment-45.m4s",
+          "size": 600062
+        },
+        {
+          "start": 270,
+          "end": 276,
+          "url": "segment-46.m4s",
+          "size": 1096485
+        },
+        {
+          "start": 276,
+          "end": 282,
+          "url": "segment-47.m4s",
+          "size": 1356709
+        },
+        {
+          "start": 282,
+          "end": 288,
+          "url": "segment-48.m4s",
+          "size": 1132787
+        },
+        {
+          "start": 288,
+          "end": 294,
+          "url": "segment-49.m4s",
+          "size": 808346
+        },
+        {
+          "start": 294,
+          "end": 300,
+          "url": "segment-50.m4s",
+          "size": 866986
+        },
+        {
+          "start": 300,
+          "end": 306,
+          "url": "segment-51.m4s",
+          "size": 1348112
+        },
+        {
+          "start": 306,
+          "end": 312,
+          "url": "segment-52.m4s",
+          "size": 1205158
+        },
+        {
+          "start": 312,
+          "end": 318,
+          "url": "segment-53.m4s",
+          "size": 1232393
+        },
+        {
+          "start": 318,
+          "end": 324,
+          "url": "segment-54.m4s",
+          "size": 1161561
+        },
+        {
+          "start": 324,
+          "end": 330,
+          "url": "segment-55.m4s",
+          "size": 767400
+        },
+        {
+          "start": 330,
+          "end": 336,
+          "url": "segment-56.m4s",
+          "size": 1148650
+        },
+        {
+          "start": 336,
+          "end": 342,
+          "url": "segment-57.m4s",
+          "size": 683815
+        },
+        {
+          "start": 342,
+          "end": 348,
+          "url": "segment-58.m4s",
+          "size": 917975
+        },
+        {
+          "start": 348,
+          "end": 354,
+          "url": "segment-59.m4s",
+          "size": 666209
+        },
+        {
+          "start": 354,
+          "end": 360,
+          "url": "segment-60.m4s",
+          "size": 737250
+        },
+        {
+          "start": 360,
+          "end": 366,
+          "url": "segment-61.m4s",
+          "size": 966184
+        },
+        {
+          "start": 366,
+          "end": 372,
+          "url": "segment-62.m4s",
+          "size": 1032710
+        },
+        {
+          "start": 372,
+          "end": 378,
+          "url": "segment-63.m4s",
+          "size": 1191625
+        },
+        {
+          "start": 378,
+          "end": 384,
+          "url": "segment-64.m4s",
+          "size": 1339578
+        },
+        {
+          "start": 384,
+          "end": 390,
+          "url": "segment-65.m4s",
+          "size": 1237761
+        },
+        {
+          "start": 390,
+          "end": 396,
+          "url": "segment-66.m4s",
+          "size": 1001411
+        },
+        {
+          "start": 396,
+          "end": 402,
+          "url": "segment-67.m4s",
+          "size": 1145124
+        },
+        {
+          "start": 402,
+          "end": 408,
+          "url": "segment-68.m4s",
+          "size": 969660
+        },
+        {
+          "start": 408,
+          "end": 414,
+          "url": "segment-69.m4s",
+          "size": 992732
+        },
+        {
+          "start": 414,
+          "end": 420,
+          "url": "segment-70.m4s",
+          "size": 573762
+        },
+        {
+          "start": 420,
+          "end": 426,
+          "url": "segment-71.m4s",
+          "size": 362237
+        },
+        {
+          "start": 426,
+          "end": 432,
+          "url": "segment-72.m4s",
+          "size": 544320
+        },
+        {
+          "start": 432,
+          "end": 438,
+          "url": "segment-73.m4s",
+          "size": 1279166
+        },
+        {
+          "start": 438,
+          "end": 444,
+          "url": "segment-74.m4s",
+          "size": 1987294
+        },
+        {
+          "start": 444,
+          "end": 450,
+          "url": "segment-75.m4s",
+          "size": 1406853
+        },
+        {
+          "start": 450,
+          "end": 456,
+          "url": "segment-76.m4s",
+          "size": 1580345
+        },
+        {
+          "start": 456,
+          "end": 462,
+          "url": "segment-77.m4s",
+          "size": 1600655
+        },
+        {
+          "start": 462,
+          "end": 468,
+          "url": "segment-78.m4s",
+          "size": 842479
+        },
+        {
+          "start": 468,
+          "end": 474,
+          "url": "segment-79.m4s",
+          "size": 564038
+        },
+        {
+          "start": 474,
+          "end": 480,
+          "url": "segment-80.m4s",
+          "size": 600437
+        },
+        {
+          "start": 480,
+          "end": 486,
+          "url": "segment-81.m4s",
+          "size": 650063
+        },
+        {
+          "start": 486,
+          "end": 492,
+          "url": "segment-82.m4s",
+          "size": 1369135
+        },
+        {
+          "start": 492,
+          "end": 498,
+          "url": "segment-83.m4s",
+          "size": 1082069
+        },
+        {
+          "start": 498,
+          "end": 504,
+          "url": "segment-84.m4s",
+          "size": 1356334
+        },
+        {
+          "start": 504,
+          "end": 510,
+          "url": "segment-85.m4s",
+          "size": 1098245
+        },
+        {
+          "start": 510,
+          "end": 516,
+          "url": "segment-86.m4s",
+          "size": 890893
+        },
+        {
+          "start": 516,
+          "end": 522,
+          "url": "segment-87.m4s",
+          "size": 862412
+        },
+        {
+          "start": 522,
+          "end": 528,
+          "url": "segment-88.m4s",
+          "size": 1152900
+        },
+        {
+          "start": 528,
+          "end": 534,
+          "url": "segment-89.m4s",
+          "size": 1124440
+        },
+        {
+          "start": 534,
+          "end": 540,
+          "url": "segment-90.m4s",
+          "size": 802310
+        },
+        {
+          "start": 540,
+          "end": 546,
+          "url": "segment-91.m4s",
+          "size": 694011
+        },
+        {
+          "start": 546,
+          "end": 552,
+          "url": "segment-92.m4s",
+          "size": 618899
+        },
+        {
+          "start": 552,
+          "end": 558,
+          "url": "segment-93.m4s",
+          "size": 716166
+        },
+        {
+          "start": 558,
+          "end": 564,
+          "url": "segment-94.m4s",
+          "size": 708301
+        },
+        {
+          "start": 564,
+          "end": 570,
+          "url": "segment-95.m4s",
+          "size": 682024
+        },
+        {
+          "start": 570,
+          "end": 576,
+          "url": "segment-96.m4s",
+          "size": 710322
+        },
+        {
+          "start": 576,
+          "end": 582,
+          "url": "segment-97.m4s",
+          "size": 675263
+        },
+        {
+          "start": 582,
+          "end": 588,
+          "url": "segment-98.m4s",
+          "size": 719950
+        },
+        {
+          "start": 588,
+          "end": 594,
+          "url": "segment-99.m4s",
+          "size": 770072
+        },
+        {
+          "start": 594,
+          "end": 600,
+          "url": "segment-100.m4s",
+          "size": 801696
+        },
+        {
+          "start": 600,
+          "end": 606,
+          "url": "segment-101.m4s",
+          "size": 1201155
+        },
+        {
+          "start": 606,
+          "end": 612,
+          "url": "segment-102.m4s",
+          "size": 881782
+        },
+        {
+          "start": 612,
+          "end": 618,
+          "url": "segment-103.m4s",
+          "size": 722732
+        },
+        {
+          "start": 618,
+          "end": 624,
+          "url": "segment-104.m4s",
+          "size": 707203
+        },
+        {
+          "start": 624,
+          "end": 630,
+          "url": "segment-105.m4s",
+          "size": 722117
+        },
+        {
+          "start": 630,
+          "end": 636,
+          "url": "segment-106.m4s",
+          "size": 870045
+        },
+        {
+          "start": 636,
+          "end": 642,
+          "url": "segment-107.m4s",
+          "size": 1043281
+        },
+        {
+          "start": 642,
+          "end": 648,
+          "url": "segment-108.m4s",
+          "size": 900339
+        },
+        {
+          "start": 648,
+          "end": 654,
+          "url": "segment-109.m4s",
+          "size": 804227
+        },
+        {
+          "start": 654,
+          "end": 660,
+          "url": "segment-110.m4s",
+          "size": 872090
+        },
+        {
+          "start": 660,
+          "end": 666,
+          "url": "segment-111.m4s",
+          "size": 939698
+        },
+        {
+          "start": 666,
+          "end": 672,
+          "url": "segment-112.m4s",
+          "size": 684204
+        },
+        {
+          "start": 672,
+          "end": 678,
+          "url": "segment-113.m4s",
+          "size": 630878
+        },
+        {
+          "start": 678,
+          "end": 684,
+          "url": "segment-114.m4s",
+          "size": 937739
+        },
+        {
+          "start": 684,
+          "end": 690,
+          "url": "segment-115.m4s",
+          "size": 873110
+        },
+        {
+          "start": 690,
+          "end": 696,
+          "url": "segment-116.m4s",
+          "size": 1396152
+        },
+        {
+          "start": 696,
+          "end": 702,
+          "url": "segment-117.m4s",
+          "size": 1978108
+        },
+        {
+          "start": 702,
+          "end": 708,
+          "url": "segment-118.m4s",
+          "size": 1982476
+        },
+        {
+          "start": 708,
+          "end": 714,
+          "url": "segment-119.m4s",
+          "size": 982594
+        },
+        {
+          "start": 714,
+          "end": 720,
+          "url": "segment-120.m4s",
+          "size": 561849
+        },
+        {
+          "start": 720,
+          "end": 726,
+          "url": "segment-121.m4s",
+          "size": 1815005
+        },
+        {
+          "start": 726,
+          "end": 732,
+          "url": "segment-122.m4s",
+          "size": 914784
+        },
+        {
+          "start": 732,
+          "end": 738,
+          "url": "segment-123.m4s",
+          "size": 1648435
+        },
+        {
+          "start": 738,
+          "end": 744,
+          "url": "segment-124.m4s",
+          "size": 1108961
+        },
+        {
+          "start": 744,
+          "end": 750,
+          "url": "segment-125.m4s",
+          "size": 655332
+        },
+        {
+          "start": 750,
+          "end": 756,
+          "url": "segment-126.m4s",
+          "size": 1049515
+        },
+        {
+          "start": 756,
+          "end": 762,
+          "url": "segment-127.m4s",
+          "size": 1047239
+        },
+        {
+          "start": 762,
+          "end": 768,
+          "url": "segment-128.m4s",
+          "size": 927606
+        },
+        {
+          "start": 768,
+          "end": 774,
+          "url": "segment-129.m4s",
+          "size": 804524
+        },
+        {
+          "start": 774,
+          "end": 780,
+          "url": "segment-130.m4s",
+          "size": 894581
+        },
+        {
+          "start": 780,
+          "end": 786,
+          "url": "segment-131.m4s",
+          "size": 842906
+        },
+        {
+          "start": 786,
+          "end": 792,
+          "url": "segment-132.m4s",
+          "size": 1154024
+        },
+        {
+          "start": 792,
+          "end": 798,
+          "url": "segment-133.m4s",
+          "size": 1502890
+        },
+        {
+          "start": 798,
+          "end": 804,
+          "url": "segment-134.m4s",
+          "size": 709390
+        },
+        {
+          "start": 804,
+          "end": 810,
+          "url": "segment-135.m4s",
+          "size": 742879
+        },
+        {
+          "start": 810,
+          "end": 816,
+          "url": "segment-136.m4s",
+          "size": 890608
+        },
+        {
+          "start": 816,
+          "end": 822,
+          "url": "segment-137.m4s",
+          "size": 1188204
+        },
+        {
+          "start": 822,
+          "end": 828,
+          "url": "segment-138.m4s",
+          "size": 952080
+        },
+        {
+          "start": 828,
+          "end": 834,
+          "url": "segment-139.m4s",
+          "size": 957427
+        },
+        {
+          "start": 834,
+          "end": 840,
+          "url": "segment-140.m4s",
+          "size": 970165
+        },
+        {
+          "start": 840,
+          "end": 846,
+          "url": "segment-141.m4s",
+          "size": 816761
+        },
+        {
+          "start": 846,
+          "end": 852,
+          "url": "segment-142.m4s",
+          "size": 851844
+        },
+        {
+          "start": 852,
+          "end": 858,
+          "url": "segment-143.m4s",
+          "size": 857562
+        },
+        {
+          "start": 858,
+          "end": 864,
+          "url": "segment-144.m4s",
+          "size": 790112
+        },
+        {
+          "start": 864,
+          "end": 870,
+          "url": "segment-145.m4s",
+          "size": 645211
+        },
+        {
+          "start": 870,
+          "end": 876,
+          "url": "segment-146.m4s",
+          "size": 578553
+        },
+        {
+          "start": 876,
+          "end": 882,
+          "url": "segment-147.m4s",
+          "size": 736538
+        },
+        {
+          "start": 882,
+          "end": 888,
+          "url": "segment-148.m4s",
+          "size": 584120
+        },
+        {
+          "start": 888,
+          "end": 894,
+          "url": "segment-149.m4s",
+          "size": 341092
+        },
+        {
+          "start": 894,
+          "end": 900,
+          "url": "segment-150.m4s",
+          "size": 675027
+        },
+        {
+          "start": 900,
+          "end": 906,
+          "url": "segment-151.m4s",
+          "size": 576255
+        },
+        {
+          "start": 906,
+          "end": 912,
+          "url": "segment-152.m4s",
+          "size": 592611
+        },
+        {
+          "start": 912,
+          "end": 918,
+          "url": "segment-153.m4s",
+          "size": 915221
+        },
+        {
+          "start": 918,
+          "end": 924,
+          "url": "segment-154.m4s",
+          "size": 778763
+        },
+        {
+          "start": 924,
+          "end": 930,
+          "url": "segment-155.m4s",
+          "size": 956057
+        },
+        {
+          "start": 930,
+          "end": 936,
+          "url": "segment-156.m4s",
+          "size": 983315
+        },
+        {
+          "start": 936,
+          "end": 942,
+          "url": "segment-157.m4s",
+          "size": 918396
+        },
+        {
+          "start": 942,
+          "end": 948,
+          "url": "segment-158.m4s",
+          "size": 881935
+        },
+        {
+          "start": 948,
+          "end": 954,
+          "url": "segment-159.m4s",
+          "size": 2200922
+        },
+        {
+          "start": 954,
+          "end": 960,
+          "url": "segment-160.m4s",
+          "size": 623555
+        },
+        {
+          "start": 960,
+          "end": 966,
+          "url": "segment-161.m4s",
+          "size": 863918
+        },
+        {
+          "start": 966,
+          "end": 972,
+          "url": "segment-162.m4s",
+          "size": 756950
+        },
+        {
+          "start": 972,
+          "end": 978,
+          "url": "segment-163.m4s",
+          "size": 1007150
+        },
+        {
+          "start": 978,
+          "end": 984,
+          "url": "segment-164.m4s",
+          "size": 1121603
+        },
+        {
+          "start": 984,
+          "end": 990,
+          "url": "segment-165.m4s",
+          "size": 1081667
+        },
+        {
+          "start": 990,
+          "end": 996,
+          "url": "segment-166.m4s",
+          "size": 1096973
+        },
+        {
+          "start": 996,
+          "end": 1002,
+          "url": "segment-167.m4s",
+          "size": 1180452
+        },
+        {
+          "start": 1002,
+          "end": 1008,
+          "url": "segment-168.m4s",
+          "size": 1641586
+        },
+        {
+          "start": 1008,
+          "end": 1014,
+          "url": "segment-169.m4s",
+          "size": 1527990
+        },
+        {
+          "start": 1014,
+          "end": 1020,
+          "url": "segment-170.m4s",
+          "size": 1130178
+        },
+        {
+          "start": 1020,
+          "end": 1026,
+          "url": "segment-171.m4s",
+          "size": 763555
+        },
+        {
+          "start": 1026,
+          "end": 1032,
+          "url": "segment-172.m4s",
+          "size": 39536
+        },
+        {
+          "start": 1032,
+          "end": 1038,
+          "url": "segment-173.m4s",
+          "size": 16112
+        },
+        {
+          "start": 1038,
+          "end": 1044,
+          "url": "segment-174.m4s",
+          "size": 25913
+        },
+        {
+          "start": 1044,
+          "end": 1050,
+          "url": "segment-175.m4s",
+          "size": 26050
+        },
+        {
+          "start": 1050,
+          "end": 1056,
+          "url": "segment-176.m4s",
+          "size": 10332
+        },
+        {
+          "start": 1056,
+          "end": 1062,
+          "url": "segment-177.m4s",
+          "size": 24194
+        },
+        {
+          "start": 1062,
+          "end": 1068,
+          "url": "segment-178.m4s",
+          "size": 17917
+        },
+        {
+          "start": 1068,
+          "end": 1074,
+          "url": "segment-179.m4s",
+          "size": 21428
+        },
+        {
+          "start": 1074,
+          "end": 1080,
+          "url": "segment-180.m4s",
+          "size": 32810
+        },
+        {
+          "start": 1080,
+          "end": 1086,
+          "url": "segment-181.m4s",
+          "size": 28471
+        },
+        {
+          "start": 1086,
+          "end": 1092,
+          "url": "segment-182.m4s",
+          "size": 31567
+        },
+        {
+          "start": 1092,
+          "end": 1098,
+          "url": "segment-183.m4s",
+          "size": 14481
+        },
+        {
+          "start": 1098,
+          "end": 1104,
+          "url": "segment-184.m4s",
+          "size": 14711
+        },
+        {
+          "start": 1104,
+          "end": 1110,
+          "url": "segment-185.m4s",
+          "size": 3637
+        },
+        {
+          "start": 1110,
+          "end": 1116.75,
+          "url": "segment-186.m4s",
+          "size": 10368
+        }
+      ]
+    }
+  ],
+  "audio": [
+    {
+      "id": "846142400",
+      "base_url": "../audio/846142400/chop/",
+      "format": "mp42",
+      "mime_type": "audio/mp4",
+      "codecs": "mp4a.40.2",
+      "bitrate": 258000,
+      "avg_bitrate": 258000,
+      "duration": 1116.7573333333332,
+      "channels": 2,
+      "sample_rate": 48000,
+      "max_segment_duration": 7,
+      "init_segment": "AAAAHGZ0eXBpc281AAACAGlzbzVpc282bXA0MQAAAt5tb292AAAAbG12aGQAAAAAAAAAAAAAAAAAAAPoAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAB4HRyYWsAAABcdGtoZAAAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAACRlZHRzAAAAHGVsc3QAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAVhtZGlhAAAAIG1kaGQAAAAAAAAAAAAAAAAAALuAAAAAAFXEAAAAAAAtaGRscgAAAAAAAAAAc291bgAAAAAAAAAAAAAAAFNvdW5kSGFuZGxlcgAAAAEDbWluZgAAABBzbWhkAAAAAAAAAAAAAAAkZGluZgAAABxkcmVmAAAAAAAAAAEAAAAMdXJsIAAAAAEAAADHc3RibAAAAHtzdHNkAAAAAAAAAAEAAABrbXA0YQAAAAAAAAABAAAAAAAAAAAAAgAQAAAAALuAAAAAAAAzZXNkcwAAAAADgICAIgABAASAgIAUQBUAAAAAA+gAAAPoAAWAgIACEZAGgICAAQIAAAAUYnRydAAAAAAAA+gAAAPoAAAAABBzdHRzAAAAAAAAAAAAAAAQc3RzYwAAAAAAAAAAAAAAFHN0c3oAAAAAAAAAAAAAAAAAAAAQc3RjbwAAAAAAAAAAAAAAKG12ZXgAAAAgdHJleAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAGJ1ZHRhAAAAWm1ldGEAAAAAAAAAIWhkbHIAAAAAAAAAAG1kaXJhcHBsAAAAAAAAAAAAAAAALWlsc3QAAAAlqXRvbwAAAB1kYXRhAAAAAQAAAABMYXZmNTguNjQuMTAw",
+      "segments": [
+        {
+          "start": 0,
+          "end": 5.994666666666666,
+          "url": "segment-1.m4s",
+          "size": 193219
+        },
+        {
+          "start": 5.994666666666666,
+          "end": 12.010666666666667,
+          "url": "segment-2.m4s",
+          "size": 193804
+        },
+        {
+          "start": 12.010666666666667,
+          "end": 18.005333333333333,
+          "url": "segment-3.m4s",
+          "size": 193112
+        },
+        {
+          "start": 18.005333333333333,
+          "end": 24,
+          "url": "segment-4.m4s",
+          "size": 193137
+        },
+        {
+          "start": 24,
+          "end": 29.994666666666667,
+          "url": "segment-5.m4s",
+          "size": 193110
+        },
+        {
+          "start": 29.994666666666667,
+          "end": 36.010666666666665,
+          "url": "segment-6.m4s",
+          "size": 193821
+        },
+        {
+          "start": 36.010666666666665,
+          "end": 42.00533333333333,
+          "url": "segment-7.m4s",
+          "size": 193114
+        },
+        {
+          "start": 42.00533333333333,
+          "end": 48,
+          "url": "segment-8.m4s",
+          "size": 193116
+        },
+        {
+          "start": 48,
+          "end": 53.99466666666667,
+          "url": "segment-9.m4s",
+          "size": 193114
+        },
+        {
+          "start": 53.99466666666667,
+          "end": 60.010666666666665,
+          "url": "segment-10.m4s",
+          "size": 193754
+        },
+        {
+          "start": 60.010666666666665,
+          "end": 66.00533333333334,
+          "url": "segment-11.m4s",
+          "size": 193105
+        },
+        {
+          "start": 66.00533333333334,
+          "end": 72,
+          "url": "segment-12.m4s",
+          "size": 193238
+        },
+        {
+          "start": 72,
+          "end": 77.99466666666666,
+          "url": "segment-13.m4s",
+          "size": 192922
+        },
+        {
+          "start": 77.99466666666666,
+          "end": 84.01066666666667,
+          "url": "segment-14.m4s",
+          "size": 193914
+        },
+        {
+          "start": 84.01066666666667,
+          "end": 90.00533333333334,
+          "url": "segment-15.m4s",
+          "size": 193126
+        },
+        {
+          "start": 90.00533333333334,
+          "end": 96,
+          "url": "segment-16.m4s",
+          "size": 193101
+        },
+        {
+          "start": 96,
+          "end": 101.99466666666666,
+          "url": "segment-17.m4s",
+          "size": 193129
+        },
+        {
+          "start": 101.99466666666666,
+          "end": 108.01066666666667,
+          "url": "segment-18.m4s",
+          "size": 193798
+        },
+        {
+          "start": 108.01066666666667,
+          "end": 114.00533333333334,
+          "url": "segment-19.m4s",
+          "size": 193084
+        },
+        {
+          "start": 114.00533333333334,
+          "end": 120,
+          "url": "segment-20.m4s",
+          "size": 193031
+        },
+        {
+          "start": 120,
+          "end": 125.99466666666666,
+          "url": "segment-21.m4s",
+          "size": 193238
+        },
+        {
+          "start": 125.99466666666666,
+          "end": 132.01066666666668,
+          "url": "segment-22.m4s",
+          "size": 193771
+        },
+        {
+          "start": 132.01066666666668,
+          "end": 138.00533333333334,
+          "url": "segment-23.m4s",
+          "size": 193128
+        },
+        {
+          "start": 138.00533333333334,
+          "end": 144,
+          "url": "segment-24.m4s",
+          "size": 193133
+        },
+        {
+          "start": 144,
+          "end": 149.99466666666666,
+          "url": "segment-25.m4s",
+          "size": 193119
+        },
+        {
+          "start": 149.99466666666666,
+          "end": 156.01066666666668,
+          "url": "segment-26.m4s",
+          "size": 193804
+        },
+        {
+          "start": 156.01066666666668,
+          "end": 162.00533333333334,
+          "url": "segment-27.m4s",
+          "size": 193093
+        },
+        {
+          "start": 162.00533333333334,
+          "end": 168,
+          "url": "segment-28.m4s",
+          "size": 193116
+        },
+        {
+          "start": 168,
+          "end": 173.99466666666666,
+          "url": "segment-29.m4s",
+          "size": 193111
+        },
+        {
+          "start": 173.99466666666666,
+          "end": 180.01066666666668,
+          "url": "segment-30.m4s",
+          "size": 193692
+        },
+        {
+          "start": 180.01066666666668,
+          "end": 186.00533333333334,
+          "url": "segment-31.m4s",
+          "size": 193114
+        },
+        {
+          "start": 186.00533333333334,
+          "end": 192,
+          "url": "segment-32.m4s",
+          "size": 193113
+        },
+        {
+          "start": 192,
+          "end": 197.99466666666666,
+          "url": "segment-33.m4s",
+          "size": 193113
+        },
+        {
+          "start": 197.99466666666666,
+          "end": 204.01066666666668,
+          "url": "segment-34.m4s",
+          "size": 193804
+        },
+        {
+          "start": 204.01066666666668,
+          "end": 210.00533333333334,
+          "url": "segment-35.m4s",
+          "size": 193114
+        },
+        {
+          "start": 210.00533333333334,
+          "end": 216,
+          "url": "segment-36.m4s",
+          "size": 193113
+        },
+        {
+          "start": 216,
+          "end": 221.99466666666666,
+          "url": "segment-37.m4s",
+          "size": 193365
+        },
+        {
+          "start": 221.99466666666666,
+          "end": 228.01066666666668,
+          "url": "segment-38.m4s",
+          "size": 193770
+        },
+        {
+          "start": 228.01066666666668,
+          "end": 234.00533333333334,
+          "url": "segment-39.m4s",
+          "size": 193102
+        },
+        {
+          "start": 234.00533333333334,
+          "end": 240,
+          "url": "segment-40.m4s",
+          "size": 193090
+        },
+        {
+          "start": 240,
+          "end": 245.99466666666666,
+          "url": "segment-41.m4s",
+          "size": 192980
+        },
+        {
+          "start": 245.99466666666666,
+          "end": 252.01066666666668,
+          "url": "segment-42.m4s",
+          "size": 193885
+        },
+        {
+          "start": 252.01066666666668,
+          "end": 258.00533333333334,
+          "url": "segment-43.m4s",
+          "size": 193115
+        },
+        {
+          "start": 258.00533333333334,
+          "end": 264,
+          "url": "segment-44.m4s",
+          "size": 193090
+        },
+        {
+          "start": 264,
+          "end": 269.99466666666666,
+          "url": "segment-45.m4s",
+          "size": 193166
+        },
+        {
+          "start": 269.99466666666666,
+          "end": 276.0106666666667,
+          "url": "segment-46.m4s",
+          "size": 193797
+        },
+        {
+          "start": 276.0106666666667,
+          "end": 282.00533333333334,
+          "url": "segment-47.m4s",
+          "size": 193211
+        },
+        {
+          "start": 282.00533333333334,
+          "end": 288,
+          "url": "segment-48.m4s",
+          "size": 193118
+        },
+        {
+          "start": 288,
+          "end": 293.99466666666666,
+          "url": "segment-49.m4s",
+          "size": 192859
+        },
+        {
+          "start": 293.99466666666666,
+          "end": 300.0106666666667,
+          "url": "segment-50.m4s",
+          "size": 194034
+        },
+        {
+          "start": 300.0106666666667,
+          "end": 306.00533333333334,
+          "url": "segment-51.m4s",
+          "size": 192881
+        },
+        {
+          "start": 306.00533333333334,
+          "end": 312,
+          "url": "segment-52.m4s",
+          "size": 193136
+        },
+        {
+          "start": 312,
+          "end": 317.99466666666666,
+          "url": "segment-53.m4s",
+          "size": 193090
+        },
+        {
+          "start": 317.99466666666666,
+          "end": 324.0106666666667,
+          "url": "segment-54.m4s",
+          "size": 193866
+        },
+        {
+          "start": 324.0106666666667,
+          "end": 330.00533333333334,
+          "url": "segment-55.m4s",
+          "size": 193179
+        },
+        {
+          "start": 330.00533333333334,
+          "end": 336,
+          "url": "segment-56.m4s",
+          "size": 193089
+        },
+        {
+          "start": 336,
+          "end": 341.99466666666666,
+          "url": "segment-57.m4s",
+          "size": 193212
+        },
+        {
+          "start": 341.99466666666666,
+          "end": 348.0106666666667,
+          "url": "segment-58.m4s",
+          "size": 193731
+        },
+        {
+          "start": 348.0106666666667,
+          "end": 354.00533333333334,
+          "url": "segment-59.m4s",
+          "size": 193114
+        },
+        {
+          "start": 354.00533333333334,
+          "end": 360,
+          "url": "segment-60.m4s",
+          "size": 193109
+        },
+        {
+          "start": 360,
+          "end": 365.99466666666666,
+          "url": "segment-61.m4s",
+          "size": 193108
+        },
+        {
+          "start": 365.99466666666666,
+          "end": 372.0106666666667,
+          "url": "segment-62.m4s",
+          "size": 193805
+        },
+        {
+          "start": 372.0106666666667,
+          "end": 378.00533333333334,
+          "url": "segment-63.m4s",
+          "size": 193116
+        },
+        {
+          "start": 378.00533333333334,
+          "end": 384,
+          "url": "segment-64.m4s",
+          "size": 193128
+        },
+        {
+          "start": 384,
+          "end": 389.99466666666666,
+          "url": "segment-65.m4s",
+          "size": 193108
+        },
+        {
+          "start": 389.99466666666666,
+          "end": 396.0106666666667,
+          "url": "segment-66.m4s",
+          "size": 193783
+        },
+        {
+          "start": 396.0106666666667,
+          "end": 402.00533333333334,
+          "url": "segment-67.m4s",
+          "size": 193095
+        },
+        {
+          "start": 402.00533333333334,
+          "end": 408,
+          "url": "segment-68.m4s",
+          "size": 193164
+        },
+        {
+          "start": 408,
+          "end": 413.99466666666666,
+          "url": "segment-69.m4s",
+          "size": 193060
+        },
+        {
+          "start": 413.99466666666666,
+          "end": 420.0106666666667,
+          "url": "segment-70.m4s",
+          "size": 193713
+        },
+        {
+          "start": 420.0106666666667,
+          "end": 426.00533333333334,
+          "url": "segment-71.m4s",
+          "size": 193245
+        },
+        {
+          "start": 426.00533333333334,
+          "end": 432,
+          "url": "segment-72.m4s",
+          "size": 193095
+        },
+        {
+          "start": 432,
+          "end": 437.99466666666666,
+          "url": "segment-73.m4s",
+          "size": 193136
+        },
+        {
+          "start": 437.99466666666666,
+          "end": 444.0106666666667,
+          "url": "segment-74.m4s",
+          "size": 193839
+        },
+        {
+          "start": 444.0106666666667,
+          "end": 450.00533333333334,
+          "url": "segment-75.m4s",
+          "size": 193080
+        },
+        {
+          "start": 450.00533333333334,
+          "end": 456,
+          "url": "segment-76.m4s",
+          "size": 193081
+        },
+        {
+          "start": 456,
+          "end": 461.99466666666666,
+          "url": "segment-77.m4s",
+          "size": 193145
+        },
+        {
+          "start": 461.99466666666666,
+          "end": 468.0106666666667,
+          "url": "segment-78.m4s",
+          "size": 193853
+        },
+        {
+          "start": 468.0106666666667,
+          "end": 474.00533333333334,
+          "url": "segment-79.m4s",
+          "size": 193034
+        },
+        {
+          "start": 474.00533333333334,
+          "end": 480,
+          "url": "segment-80.m4s",
+          "size": 193129
+        },
+        {
+          "start": 480,
+          "end": 485.99466666666666,
+          "url": "segment-81.m4s",
+          "size": 193141
+        },
+        {
+          "start": 485.99466666666666,
+          "end": 492.0106666666667,
+          "url": "segment-82.m4s",
+          "size": 193797
+        },
+        {
+          "start": 492.0106666666667,
+          "end": 498.00533333333334,
+          "url": "segment-83.m4s",
+          "size": 193085
+        },
+        {
+          "start": 498.00533333333334,
+          "end": 504,
+          "url": "segment-84.m4s",
+          "size": 193128
+        },
+        {
+          "start": 504,
+          "end": 509.99466666666666,
+          "url": "segment-85.m4s",
+          "size": 193114
+        },
+        {
+          "start": 509.99466666666666,
+          "end": 516.0106666666667,
+          "url": "segment-86.m4s",
+          "size": 193791
+        },
+        {
+          "start": 516.0106666666667,
+          "end": 522.0053333333333,
+          "url": "segment-87.m4s",
+          "size": 193008
+        },
+        {
+          "start": 522.0053333333333,
+          "end": 528,
+          "url": "segment-88.m4s",
+          "size": 193303
+        },
+        {
+          "start": 528,
+          "end": 533.9946666666667,
+          "url": "segment-89.m4s",
+          "size": 193112
+        },
+        {
+          "start": 533.9946666666667,
+          "end": 540.0106666666667,
+          "url": "segment-90.m4s",
+          "size": 193800
+        },
+        {
+          "start": 540.0106666666667,
+          "end": 546.0053333333333,
+          "url": "segment-91.m4s",
+          "size": 193234
+        },
+        {
+          "start": 546.0053333333333,
+          "end": 552,
+          "url": "segment-92.m4s",
+          "size": 192828
+        },
+        {
+          "start": 552,
+          "end": 557.9946666666667,
+          "url": "segment-93.m4s",
+          "size": 193276
+        },
+        {
+          "start": 557.9946666666667,
+          "end": 564.0106666666667,
+          "url": "segment-94.m4s",
+          "size": 193802
+        },
+        {
+          "start": 564.0106666666667,
+          "end": 570.0053333333333,
+          "url": "segment-95.m4s",
+          "size": 193147
+        },
+        {
+          "start": 570.0053333333333,
+          "end": 576,
+          "url": "segment-96.m4s",
+          "size": 192986
+        },
+        {
+          "start": 576,
+          "end": 581.9946666666667,
+          "url": "segment-97.m4s",
+          "size": 193228
+        },
+        {
+          "start": 581.9946666666667,
+          "end": 588.0106666666667,
+          "url": "segment-98.m4s",
+          "size": 193864
+        },
+        {
+          "start": 588.0106666666667,
+          "end": 594.0053333333333,
+          "url": "segment-99.m4s",
+          "size": 193113
+        },
+        {
+          "start": 594.0053333333333,
+          "end": 600,
+          "url": "segment-100.m4s",
+          "size": 193131
+        },
+        {
+          "start": 600,
+          "end": 605.9946666666667,
+          "url": "segment-101.m4s",
+          "size": 193093
+        },
+        {
+          "start": 605.9946666666667,
+          "end": 612.0106666666667,
+          "url": "segment-102.m4s",
+          "size": 193807
+        },
+        {
+          "start": 612.0106666666667,
+          "end": 618.0053333333333,
+          "url": "segment-103.m4s",
+          "size": 193065
+        },
+        {
+          "start": 618.0053333333333,
+          "end": 624,
+          "url": "segment-104.m4s",
+          "size": 193120
+        },
+        {
+          "start": 624,
+          "end": 629.9946666666667,
+          "url": "segment-105.m4s",
+          "size": 193151
+        },
+        {
+          "start": 629.9946666666667,
+          "end": 636.0106666666667,
+          "url": "segment-106.m4s",
+          "size": 193728
+        },
+        {
+          "start": 636.0106666666667,
+          "end": 642.0053333333333,
+          "url": "segment-107.m4s",
+          "size": 193093
+        },
+        {
+          "start": 642.0053333333333,
+          "end": 648,
+          "url": "segment-108.m4s",
+          "size": 193014
+        },
+        {
+          "start": 648,
+          "end": 653.9946666666667,
+          "url": "segment-109.m4s",
+          "size": 193139
+        },
+        {
+          "start": 653.9946666666667,
+          "end": 660.0106666666667,
+          "url": "segment-110.m4s",
+          "size": 193797
+        },
+        {
+          "start": 660.0106666666667,
+          "end": 666.0053333333333,
+          "url": "segment-111.m4s",
+          "size": 193097
+        },
+        {
+          "start": 666.0053333333333,
+          "end": 672,
+          "url": "segment-112.m4s",
+          "size": 193131
+        },
+        {
+          "start": 672,
+          "end": 677.9946666666667,
+          "url": "segment-113.m4s",
+          "size": 193131
+        },
+        {
+          "start": 677.9946666666667,
+          "end": 684.0106666666667,
+          "url": "segment-114.m4s",
+          "size": 193798
+        },
+        {
+          "start": 684.0106666666667,
+          "end": 690.0053333333333,
+          "url": "segment-115.m4s",
+          "size": 193131
+        },
+        {
+          "start": 690.0053333333333,
+          "end": 696,
+          "url": "segment-116.m4s",
+          "size": 193089
+        },
+        {
+          "start": 696,
+          "end": 701.9946666666667,
+          "url": "segment-117.m4s",
+          "size": 193150
+        },
+        {
+          "start": 701.9946666666667,
+          "end": 708.0106666666667,
+          "url": "segment-118.m4s",
+          "size": 193757
+        },
+        {
+          "start": 708.0106666666667,
+          "end": 714.0053333333333,
+          "url": "segment-119.m4s",
+          "size": 193143
+        },
+        {
+          "start": 714.0053333333333,
+          "end": 720,
+          "url": "segment-120.m4s",
+          "size": 193132
+        },
+        {
+          "start": 720,
+          "end": 725.9946666666667,
+          "url": "segment-121.m4s",
+          "size": 193139
+        },
+        {
+          "start": 725.9946666666667,
+          "end": 732.0106666666667,
+          "url": "segment-122.m4s",
+          "size": 193824
+        },
+        {
+          "start": 732.0106666666667,
+          "end": 738.0053333333333,
+          "url": "segment-123.m4s",
+          "size": 193114
+        },
+        {
+          "start": 738.0053333333333,
+          "end": 744,
+          "url": "segment-124.m4s",
+          "size": 193058
+        },
+        {
+          "start": 744,
+          "end": 749.9946666666667,
+          "url": "segment-125.m4s",
+          "size": 193152
+        },
+        {
+          "start": 749.9946666666667,
+          "end": 756.0106666666667,
+          "url": "segment-126.m4s",
+          "size": 193735
+        },
+        {
+          "start": 756.0106666666667,
+          "end": 762.0053333333333,
+          "url": "segment-127.m4s",
+          "size": 193057
+        },
+        {
+          "start": 762.0053333333333,
+          "end": 768,
+          "url": "segment-128.m4s",
+          "size": 193521
+        },
+        {
+          "start": 768,
+          "end": 773.9946666666667,
+          "url": "segment-129.m4s",
+          "size": 192996
+        },
+        {
+          "start": 773.9946666666667,
+          "end": 780.0106666666667,
+          "url": "segment-130.m4s",
+          "size": 193834
+        },
+        {
+          "start": 780.0106666666667,
+          "end": 786.0053333333333,
+          "url": "segment-131.m4s",
+          "size": 193043
+        },
+        {
+          "start": 786.0053333333333,
+          "end": 792,
+          "url": "segment-132.m4s",
+          "size": 193340
+        },
+        {
+          "start": 792,
+          "end": 797.9946666666667,
+          "url": "segment-133.m4s",
+          "size": 192874
+        },
+        {
+          "start": 797.9946666666667,
+          "end": 804.0106666666667,
+          "url": "segment-134.m4s",
+          "size": 194068
+        },
+        {
+          "start": 804.0106666666667,
+          "end": 810.0053333333333,
+          "url": "segment-135.m4s",
+          "size": 192757
+        },
+        {
+          "start": 810.0053333333333,
+          "end": 816,
+          "url": "segment-136.m4s",
+          "size": 193300
+        },
+        {
+          "start": 816,
+          "end": 821.9946666666667,
+          "url": "segment-137.m4s",
+          "size": 192982
+        },
+        {
+          "start": 821.9946666666667,
+          "end": 828.0106666666667,
+          "url": "segment-138.m4s",
+          "size": 194005
+        },
+        {
+          "start": 828.0106666666667,
+          "end": 834.0053333333333,
+          "url": "segment-139.m4s",
+          "size": 192929
+        },
+        {
+          "start": 834.0053333333333,
+          "end": 840,
+          "url": "segment-140.m4s",
+          "size": 193253
+        },
+        {
+          "start": 840,
+          "end": 845.9946666666667,
+          "url": "segment-141.m4s",
+          "size": 192974
+        },
+        {
+          "start": 845.9946666666667,
+          "end": 852.0106666666667,
+          "url": "segment-142.m4s",
+          "size": 194070
+        },
+        {
+          "start": 852.0106666666667,
+          "end": 858.0053333333333,
+          "url": "segment-143.m4s",
+          "size": 192736
+        },
+        {
+          "start": 858.0053333333333,
+          "end": 864,
+          "url": "segment-144.m4s",
+          "size": 193103
+        },
+        {
+          "start": 864,
+          "end": 869.9946666666667,
+          "url": "segment-145.m4s",
+          "size": 193131
+        },
+        {
+          "start": 869.9946666666667,
+          "end": 876.0106666666667,
+          "url": "segment-146.m4s",
+          "size": 193793
+        },
+        {
+          "start": 876.0106666666667,
+          "end": 882.0053333333333,
+          "url": "segment-147.m4s",
+          "size": 193070
+        },
+        {
+          "start": 882.0053333333333,
+          "end": 888,
+          "url": "segment-148.m4s",
+          "size": 193078
+        },
+        {
+          "start": 888,
+          "end": 893.9946666666667,
+          "url": "segment-149.m4s",
+          "size": 193117
+        },
+        {
+          "start": 893.9946666666667,
+          "end": 900.0106666666667,
+          "url": "segment-150.m4s",
+          "size": 193800
+        },
+        {
+          "start": 900.0106666666667,
+          "end": 906.0053333333333,
+          "url": "segment-151.m4s",
+          "size": 193114
+        },
+        {
+          "start": 906.0053333333333,
+          "end": 912,
+          "url": "segment-152.m4s",
+          "size": 193117
+        },
+        {
+          "start": 912,
+          "end": 917.9946666666667,
+          "url": "segment-153.m4s",
+          "size": 193233
+        },
+        {
+          "start": 917.9946666666667,
+          "end": 924.0106666666667,
+          "url": "segment-154.m4s",
+          "size": 193729
+        },
+        {
+          "start": 924.0106666666667,
+          "end": 930.0053333333333,
+          "url": "segment-155.m4s",
+          "size": 193069
+        },
+        {
+          "start": 930.0053333333333,
+          "end": 936,
+          "url": "segment-156.m4s",
+          "size": 193209
+        },
+        {
+          "start": 936,
+          "end": 941.9946666666667,
+          "url": "segment-157.m4s",
+          "size": 193135
+        },
+        {
+          "start": 941.9946666666667,
+          "end": 948.0106666666667,
+          "url": "segment-158.m4s",
+          "size": 193827
+        },
+        {
+          "start": 948.0106666666667,
+          "end": 954.0053333333333,
+          "url": "segment-159.m4s",
+          "size": 193141
+        },
+        {
+          "start": 954.0053333333333,
+          "end": 960,
+          "url": "segment-160.m4s",
+          "size": 193059
+        },
+        {
+          "start": 960,
+          "end": 965.9946666666667,
+          "url": "segment-161.m4s",
+          "size": 193185
+        },
+        {
+          "start": 965.9946666666667,
+          "end": 972.0106666666667,
+          "url": "segment-162.m4s",
+          "size": 193721
+        },
+        {
+          "start": 972.0106666666667,
+          "end": 978.0053333333333,
+          "url": "segment-163.m4s",
+          "size": 193062
+        },
+        {
+          "start": 978.0053333333333,
+          "end": 984,
+          "url": "segment-164.m4s",
+          "size": 193159
+        },
+        {
+          "start": 984,
+          "end": 989.9946666666667,
+          "url": "segment-165.m4s",
+          "size": 193122
+        },
+        {
+          "start": 989.9946666666667,
+          "end": 996.0106666666667,
+          "url": "segment-166.m4s",
+          "size": 193822
+        },
+        {
+          "start": 996.0106666666667,
+          "end": 1002.0053333333333,
+          "url": "segment-167.m4s",
+          "size": 193168
+        },
+        {
+          "start": 1002.0053333333333,
+          "end": 1008,
+          "url": "segment-168.m4s",
+          "size": 193086
+        },
+        {
+          "start": 1008,
+          "end": 1013.9946666666667,
+          "url": "segment-169.m4s",
+          "size": 193155
+        },
+        {
+          "start": 1013.9946666666667,
+          "end": 1020.0106666666667,
+          "url": "segment-170.m4s",
+          "size": 193755
+        },
+        {
+          "start": 1020.0106666666667,
+          "end": 1026.0053333333333,
+          "url": "segment-171.m4s",
+          "size": 192986
+        },
+        {
+          "start": 1026.0053333333333,
+          "end": 1032,
+          "url": "segment-172.m4s",
+          "size": 193117
+        },
+        {
+          "start": 1032,
+          "end": 1037.9946666666667,
+          "url": "segment-173.m4s",
+          "size": 193117
+        },
+        {
+          "start": 1037.9946666666667,
+          "end": 1044.0106666666666,
+          "url": "segment-174.m4s",
+          "size": 193800
+        },
+        {
+          "start": 1044.0106666666666,
+          "end": 1050.0053333333333,
+          "url": "segment-175.m4s",
+          "size": 193118
+        },
+        {
+          "start": 1050.0053333333333,
+          "end": 1056,
+          "url": "segment-176.m4s",
+          "size": 193117
+        },
+        {
+          "start": 1056,
+          "end": 1061.9946666666667,
+          "url": "segment-177.m4s",
+          "size": 193117
+        },
+        {
+          "start": 1061.9946666666667,
+          "end": 1068.0106666666666,
+          "url": "segment-178.m4s",
+          "size": 193800
+        },
+        {
+          "start": 1068.0106666666666,
+          "end": 1074.0053333333333,
+          "url": "segment-179.m4s",
+          "size": 193340
+        },
+        {
+          "start": 1074.0053333333333,
+          "end": 1080,
+          "url": "segment-180.m4s",
+          "size": 193146
+        },
+        {
+          "start": 1080,
+          "end": 1085.9946666666667,
+          "url": "segment-181.m4s",
+          "size": 193020
+        },
+        {
+          "start": 1085.9946666666667,
+          "end": 1092.0106666666666,
+          "url": "segment-182.m4s",
+          "size": 193951
+        },
+        {
+          "start": 1092.0106666666666,
+          "end": 1098.0053333333333,
+          "url": "segment-183.m4s",
+          "size": 193094
+        },
+        {
+          "start": 1098.0053333333333,
+          "end": 1104,
+          "url": "segment-184.m4s",
+          "size": 192982
+        },
+        {
+          "start": 1104,
+          "end": 1109.9946666666667,
+          "url": "segment-185.m4s",
+          "size": 193150
+        },
+        {
+          "start": 1109.9946666666667,
+          "end": 1116.7573333333332,
+          "url": "segment-186.m4s",
+          "size": 217655
+        }
+      ]
+    },
+    {
+      "id": "846142429",
+      "base_url": "../audio/846142429/chop/",
+      "format": "mp42",
+      "mime_type": "audio/mp4",
+      "codecs": "mp4a.40.2",
+      "bitrate": 130000,
+      "avg_bitrate": 130000,
+      "duration": 1116.7573333333332,
+      "channels": 2,
+      "sample_rate": 48000,
+      "max_segment_duration": 7,
+      "init_segment": "AAAAHGZ0eXBpc281AAACAGlzbzVpc282bXA0MQAAAt5tb292AAAAbG12aGQAAAAAAAAAAAAAAAAAAAPoAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAB4HRyYWsAAABcdGtoZAAAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAACRlZHRzAAAAHGVsc3QAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAVhtZGlhAAAAIG1kaGQAAAAAAAAAAAAAAAAAALuAAAAAAFXEAAAAAAAtaGRscgAAAAAAAAAAc291bgAAAAAAAAAAAAAAAFNvdW5kSGFuZGxlcgAAAAEDbWluZgAAABBzbWhkAAAAAAAAAAAAAAAkZGluZgAAABxkcmVmAAAAAAAAAAEAAAAMdXJsIAAAAAEAAADHc3RibAAAAHtzdHNkAAAAAAAAAAEAAABrbXA0YQAAAAAAAAABAAAAAAAAAAAAAgAQAAAAALuAAAAAAAAzZXNkcwAAAAADgICAIgABAASAgIAUQBUAAAAAAfQAAAH0AAWAgIACEZAGgICAAQIAAAAUYnRydAAAAAAAAfQAAAH0AAAAABBzdHRzAAAAAAAAAAAAAAAQc3RzYwAAAAAAAAAAAAAAFHN0c3oAAAAAAAAAAAAAAAAAAAAQc3RjbwAAAAAAAAAAAAAAKG12ZXgAAAAgdHJleAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAGJ1ZHRhAAAAWm1ldGEAAAAAAAAAIWhkbHIAAAAAAAAAAG1kaXJhcHBsAAAAAAAAAAAAAAAALWlsc3QAAAAlqXRvbwAAAB1kYXRhAAAAAQAAAABMYXZmNTguNjQuMTAw",
+      "segments": [
+        {
+          "start": 0,
+          "end": 5.994666666666666,
+          "url": "segment-1.m4s",
+          "size": 97562
+        },
+        {
+          "start": 5.994666666666666,
+          "end": 12.010666666666667,
+          "url": "segment-2.m4s",
+          "size": 97601
+        },
+        {
+          "start": 12.010666666666667,
+          "end": 18.005333333333333,
+          "url": "segment-3.m4s",
+          "size": 97149
+        },
+        {
+          "start": 18.005333333333333,
+          "end": 24,
+          "url": "segment-4.m4s",
+          "size": 97182
+        },
+        {
+          "start": 24,
+          "end": 29.994666666666667,
+          "url": "segment-5.m4s",
+          "size": 97252
+        },
+        {
+          "start": 29.994666666666667,
+          "end": 36.010666666666665,
+          "url": "segment-6.m4s",
+          "size": 97553
+        },
+        {
+          "start": 36.010666666666665,
+          "end": 42.00533333333333,
+          "url": "segment-7.m4s",
+          "size": 97171
+        },
+        {
+          "start": 42.00533333333333,
+          "end": 48,
+          "url": "segment-8.m4s",
+          "size": 97207
+        },
+        {
+          "start": 48,
+          "end": 53.99466666666667,
+          "url": "segment-9.m4s",
+          "size": 97211
+        },
+        {
+          "start": 53.99466666666667,
+          "end": 60.010666666666665,
+          "url": "segment-10.m4s",
+          "size": 97547
+        },
+        {
+          "start": 60.010666666666665,
+          "end": 66.00533333333334,
+          "url": "segment-11.m4s",
+          "size": 97240
+        },
+        {
+          "start": 66.00533333333334,
+          "end": 72,
+          "url": "segment-12.m4s",
+          "size": 97331
+        },
+        {
+          "start": 72,
+          "end": 77.99466666666666,
+          "url": "segment-13.m4s",
+          "size": 96646
+        },
+        {
+          "start": 77.99466666666666,
+          "end": 84.01066666666667,
+          "url": "segment-14.m4s",
+          "size": 97924
+        },
+        {
+          "start": 84.01066666666667,
+          "end": 90.00533333333334,
+          "url": "segment-15.m4s",
+          "size": 97158
+        },
+        {
+          "start": 90.00533333333334,
+          "end": 96,
+          "url": "segment-16.m4s",
+          "size": 97229
+        },
+        {
+          "start": 96,
+          "end": 101.99466666666666,
+          "url": "segment-17.m4s",
+          "size": 97169
+        },
+        {
+          "start": 101.99466666666666,
+          "end": 108.01066666666667,
+          "url": "segment-18.m4s",
+          "size": 97569
+        },
+        {
+          "start": 108.01066666666667,
+          "end": 114.00533333333334,
+          "url": "segment-19.m4s",
+          "size": 97205
+        },
+        {
+          "start": 114.00533333333334,
+          "end": 120,
+          "url": "segment-20.m4s",
+          "size": 96843
+        },
+        {
+          "start": 120,
+          "end": 125.99466666666666,
+          "url": "segment-21.m4s",
+          "size": 97542
+        },
+        {
+          "start": 125.99466666666666,
+          "end": 132.01066666666668,
+          "url": "segment-22.m4s",
+          "size": 97558
+        },
+        {
+          "start": 132.01066666666668,
+          "end": 138.00533333333334,
+          "url": "segment-23.m4s",
+          "size": 97207
+        },
+        {
+          "start": 138.00533333333334,
+          "end": 144,
+          "url": "segment-24.m4s",
+          "size": 97222
+        },
+        {
+          "start": 144,
+          "end": 149.99466666666666,
+          "url": "segment-25.m4s",
+          "size": 97189
+        },
+        {
+          "start": 149.99466666666666,
+          "end": 156.01066666666668,
+          "url": "segment-26.m4s",
+          "size": 97596
+        },
+        {
+          "start": 156.01066666666668,
+          "end": 162.00533333333334,
+          "url": "segment-27.m4s",
+          "size": 97106
+        },
+        {
+          "start": 162.00533333333334,
+          "end": 168,
+          "url": "segment-28.m4s",
+          "size": 97201
+        },
+        {
+          "start": 168,
+          "end": 173.99466666666666,
+          "url": "segment-29.m4s",
+          "size": 97190
+        },
+        {
+          "start": 173.99466666666666,
+          "end": 180.01066666666668,
+          "url": "segment-30.m4s",
+          "size": 97590
+        },
+        {
+          "start": 180.01066666666668,
+          "end": 186.00533333333334,
+          "url": "segment-31.m4s",
+          "size": 97153
+        },
+        {
+          "start": 186.00533333333334,
+          "end": 192,
+          "url": "segment-32.m4s",
+          "size": 97287
+        },
+        {
+          "start": 192,
+          "end": 197.99466666666666,
+          "url": "segment-33.m4s",
+          "size": 96790
+        },
+        {
+          "start": 197.99466666666666,
+          "end": 204.01066666666668,
+          "url": "segment-34.m4s",
+          "size": 97563
+        },
+        {
+          "start": 204.01066666666668,
+          "end": 210.00533333333334,
+          "url": "segment-35.m4s",
+          "size": 97424
+        },
+        {
+          "start": 210.00533333333334,
+          "end": 216,
+          "url": "segment-36.m4s",
+          "size": 97257
+        },
+        {
+          "start": 216,
+          "end": 221.99466666666666,
+          "url": "segment-37.m4s",
+          "size": 97283
+        },
+        {
+          "start": 221.99466666666666,
+          "end": 228.01066666666668,
+          "url": "segment-38.m4s",
+          "size": 97705
+        },
+        {
+          "start": 228.01066666666668,
+          "end": 234.00533333333334,
+          "url": "segment-39.m4s",
+          "size": 97114
+        },
+        {
+          "start": 234.00533333333334,
+          "end": 240,
+          "url": "segment-40.m4s",
+          "size": 97222
+        },
+        {
+          "start": 240,
+          "end": 245.99466666666666,
+          "url": "segment-41.m4s",
+          "size": 97127
+        },
+        {
+          "start": 245.99466666666666,
+          "end": 252.01066666666668,
+          "url": "segment-42.m4s",
+          "size": 97542
+        },
+        {
+          "start": 252.01066666666668,
+          "end": 258.00533333333334,
+          "url": "segment-43.m4s",
+          "size": 97203
+        },
+        {
+          "start": 258.00533333333334,
+          "end": 264,
+          "url": "segment-44.m4s",
+          "size": 97253
+        },
+        {
+          "start": 264,
+          "end": 269.99466666666666,
+          "url": "segment-45.m4s",
+          "size": 97199
+        },
+        {
+          "start": 269.99466666666666,
+          "end": 276.0106666666667,
+          "url": "segment-46.m4s",
+          "size": 97567
+        },
+        {
+          "start": 276.0106666666667,
+          "end": 282.00533333333334,
+          "url": "segment-47.m4s",
+          "size": 97223
+        },
+        {
+          "start": 282.00533333333334,
+          "end": 288,
+          "url": "segment-48.m4s",
+          "size": 97212
+        },
+        {
+          "start": 288,
+          "end": 293.99466666666666,
+          "url": "segment-49.m4s",
+          "size": 97036
+        },
+        {
+          "start": 293.99466666666666,
+          "end": 300.0106666666667,
+          "url": "segment-50.m4s",
+          "size": 97766
+        },
+        {
+          "start": 300.0106666666667,
+          "end": 306.00533333333334,
+          "url": "segment-51.m4s",
+          "size": 96821
+        },
+        {
+          "start": 306.00533333333334,
+          "end": 312,
+          "url": "segment-52.m4s",
+          "size": 97393
+        },
+        {
+          "start": 312,
+          "end": 317.99466666666666,
+          "url": "segment-53.m4s",
+          "size": 96953
+        },
+        {
+          "start": 317.99466666666666,
+          "end": 324.0106666666667,
+          "url": "segment-54.m4s",
+          "size": 97834
+        },
+        {
+          "start": 324.0106666666667,
+          "end": 330.00533333333334,
+          "url": "segment-55.m4s",
+          "size": 97225
+        },
+        {
+          "start": 330.00533333333334,
+          "end": 336,
+          "url": "segment-56.m4s",
+          "size": 97186
+        },
+        {
+          "start": 336,
+          "end": 341.99466666666666,
+          "url": "segment-57.m4s",
+          "size": 97123
+        },
+        {
+          "start": 341.99466666666666,
+          "end": 348.0106666666667,
+          "url": "segment-58.m4s",
+          "size": 97575
+        },
+        {
+          "start": 348.0106666666667,
+          "end": 354.00533333333334,
+          "url": "segment-59.m4s",
+          "size": 97211
+        },
+        {
+          "start": 354.00533333333334,
+          "end": 360,
+          "url": "segment-60.m4s",
+          "size": 97153
+        },
+        {
+          "start": 360,
+          "end": 365.99466666666666,
+          "url": "segment-61.m4s",
+          "size": 97213
+        },
+        {
+          "start": 365.99466666666666,
+          "end": 372.0106666666667,
+          "url": "segment-62.m4s",
+          "size": 97545
+        },
+        {
+          "start": 372.0106666666667,
+          "end": 378.00533333333334,
+          "url": "segment-63.m4s",
+          "size": 97177
+        },
+        {
+          "start": 378.00533333333334,
+          "end": 384,
+          "url": "segment-64.m4s",
+          "size": 97247
+        },
+        {
+          "start": 384,
+          "end": 389.99466666666666,
+          "url": "segment-65.m4s",
+          "size": 97211
+        },
+        {
+          "start": 389.99466666666666,
+          "end": 396.0106666666667,
+          "url": "segment-66.m4s",
+          "size": 97430
+        },
+        {
+          "start": 396.0106666666667,
+          "end": 402.00533333333334,
+          "url": "segment-67.m4s",
+          "size": 97192
+        },
+        {
+          "start": 402.00533333333334,
+          "end": 408,
+          "url": "segment-68.m4s",
+          "size": 97237
+        },
+        {
+          "start": 408,
+          "end": 413.99466666666666,
+          "url": "segment-69.m4s",
+          "size": 97170
+        },
+        {
+          "start": 413.99466666666666,
+          "end": 420.0106666666667,
+          "url": "segment-70.m4s",
+          "size": 97252
+        },
+        {
+          "start": 420.0106666666667,
+          "end": 426.00533333333334,
+          "url": "segment-71.m4s",
+          "size": 97588
+        },
+        {
+          "start": 426.00533333333334,
+          "end": 432,
+          "url": "segment-72.m4s",
+          "size": 97190
+        },
+        {
+          "start": 432,
+          "end": 437.99466666666666,
+          "url": "segment-73.m4s",
+          "size": 97183
+        },
+        {
+          "start": 437.99466666666666,
+          "end": 444.0106666666667,
+          "url": "segment-74.m4s",
+          "size": 97370
+        },
+        {
+          "start": 444.0106666666667,
+          "end": 450.00533333333334,
+          "url": "segment-75.m4s",
+          "size": 97210
+        },
+        {
+          "start": 450.00533333333334,
+          "end": 456,
+          "url": "segment-76.m4s",
+          "size": 97180
+        },
+        {
+          "start": 456,
+          "end": 461.99466666666666,
+          "url": "segment-77.m4s",
+          "size": 97287
+        },
+        {
+          "start": 461.99466666666666,
+          "end": 468.0106666666667,
+          "url": "segment-78.m4s",
+          "size": 97748
+        },
+        {
+          "start": 468.0106666666667,
+          "end": 474.00533333333334,
+          "url": "segment-79.m4s",
+          "size": 97102
+        },
+        {
+          "start": 474.00533333333334,
+          "end": 480,
+          "url": "segment-80.m4s",
+          "size": 97197
+        },
+        {
+          "start": 480,
+          "end": 485.99466666666666,
+          "url": "segment-81.m4s",
+          "size": 97260
+        },
+        {
+          "start": 485.99466666666666,
+          "end": 492.0106666666667,
+          "url": "segment-82.m4s",
+          "size": 97463
+        },
+        {
+          "start": 492.0106666666667,
+          "end": 498.00533333333334,
+          "url": "segment-83.m4s",
+          "size": 97215
+        },
+        {
+          "start": 498.00533333333334,
+          "end": 504,
+          "url": "segment-84.m4s",
+          "size": 97203
+        },
+        {
+          "start": 504,
+          "end": 509.99466666666666,
+          "url": "segment-85.m4s",
+          "size": 97182
+        },
+        {
+          "start": 509.99466666666666,
+          "end": 516.0106666666667,
+          "url": "segment-86.m4s",
+          "size": 97622
+        },
+        {
+          "start": 516.0106666666667,
+          "end": 522.0053333333333,
+          "url": "segment-87.m4s",
+          "size": 97368
+        },
+        {
+          "start": 522.0053333333333,
+          "end": 528,
+          "url": "segment-88.m4s",
+          "size": 97112
+        },
+        {
+          "start": 528,
+          "end": 533.9946666666667,
+          "url": "segment-89.m4s",
+          "size": 97207
+        },
+        {
+          "start": 533.9946666666667,
+          "end": 540.0106666666667,
+          "url": "segment-90.m4s",
+          "size": 97558
+        },
+        {
+          "start": 540.0106666666667,
+          "end": 546.0053333333333,
+          "url": "segment-91.m4s",
+          "size": 97277
+        },
+        {
+          "start": 546.0053333333333,
+          "end": 552,
+          "url": "segment-92.m4s",
+          "size": 97109
+        },
+        {
+          "start": 552,
+          "end": 557.9946666666667,
+          "url": "segment-93.m4s",
+          "size": 97211
+        },
+        {
+          "start": 557.9946666666667,
+          "end": 564.0106666666667,
+          "url": "segment-94.m4s",
+          "size": 97521
+        },
+        {
+          "start": 564.0106666666667,
+          "end": 570.0053333333333,
+          "url": "segment-95.m4s",
+          "size": 97203
+        },
+        {
+          "start": 570.0053333333333,
+          "end": 576,
+          "url": "segment-96.m4s",
+          "size": 97147
+        },
+        {
+          "start": 576,
+          "end": 581.9946666666667,
+          "url": "segment-97.m4s",
+          "size": 97270
+        },
+        {
+          "start": 581.9946666666667,
+          "end": 588.0106666666667,
+          "url": "segment-98.m4s",
+          "size": 97567
+        },
+        {
+          "start": 588.0106666666667,
+          "end": 594.0053333333333,
+          "url": "segment-99.m4s",
+          "size": 97229
+        },
+        {
+          "start": 594.0053333333333,
+          "end": 600,
+          "url": "segment-100.m4s",
+          "size": 97288
+        },
+        {
+          "start": 600,
+          "end": 605.9946666666667,
+          "url": "segment-101.m4s",
+          "size": 97056
+        },
+        {
+          "start": 605.9946666666667,
+          "end": 612.0106666666667,
+          "url": "segment-102.m4s",
+          "size": 97567
+        },
+        {
+          "start": 612.0106666666667,
+          "end": 618.0053333333333,
+          "url": "segment-103.m4s",
+          "size": 97213
+        },
+        {
+          "start": 618.0053333333333,
+          "end": 624,
+          "url": "segment-104.m4s",
+          "size": 97164
+        },
+        {
+          "start": 624,
+          "end": 629.9946666666667,
+          "url": "segment-105.m4s",
+          "size": 97121
+        },
+        {
+          "start": 629.9946666666667,
+          "end": 636.0106666666667,
+          "url": "segment-106.m4s",
+          "size": 97524
+        },
+        {
+          "start": 636.0106666666667,
+          "end": 642.0053333333333,
+          "url": "segment-107.m4s",
+          "size": 97174
+        },
+        {
+          "start": 642.0053333333333,
+          "end": 648,
+          "url": "segment-108.m4s",
+          "size": 97131
+        },
+        {
+          "start": 648,
+          "end": 653.9946666666667,
+          "url": "segment-109.m4s",
+          "size": 97308
+        },
+        {
+          "start": 653.9946666666667,
+          "end": 660.0106666666667,
+          "url": "segment-110.m4s",
+          "size": 97427
+        },
+        {
+          "start": 660.0106666666667,
+          "end": 666.0053333333333,
+          "url": "segment-111.m4s",
+          "size": 97254
+        },
+        {
+          "start": 666.0053333333333,
+          "end": 672,
+          "url": "segment-112.m4s",
+          "size": 97195
+        },
+        {
+          "start": 672,
+          "end": 677.9946666666667,
+          "url": "segment-113.m4s",
+          "size": 97210
+        },
+        {
+          "start": 677.9946666666667,
+          "end": 684.0106666666667,
+          "url": "segment-114.m4s",
+          "size": 97513
+        },
+        {
+          "start": 684.0106666666667,
+          "end": 690.0053333333333,
+          "url": "segment-115.m4s",
+          "size": 97247
+        },
+        {
+          "start": 690.0053333333333,
+          "end": 696,
+          "url": "segment-116.m4s",
+          "size": 97238
+        },
+        {
+          "start": 696,
+          "end": 701.9946666666667,
+          "url": "segment-117.m4s",
+          "size": 97142
+        },
+        {
+          "start": 701.9946666666667,
+          "end": 708.0106666666667,
+          "url": "segment-118.m4s",
+          "size": 97589
+        },
+        {
+          "start": 708.0106666666667,
+          "end": 714.0053333333333,
+          "url": "segment-119.m4s",
+          "size": 97111
+        },
+        {
+          "start": 714.0053333333333,
+          "end": 720,
+          "url": "segment-120.m4s",
+          "size": 97326
+        },
+        {
+          "start": 720,
+          "end": 725.9946666666667,
+          "url": "segment-121.m4s",
+          "size": 97157
+        },
+        {
+          "start": 725.9946666666667,
+          "end": 732.0106666666667,
+          "url": "segment-122.m4s",
+          "size": 97501
+        },
+        {
+          "start": 732.0106666666667,
+          "end": 738.0053333333333,
+          "url": "segment-123.m4s",
+          "size": 97250
+        },
+        {
+          "start": 738.0053333333333,
+          "end": 744,
+          "url": "segment-124.m4s",
+          "size": 97189
+        },
+        {
+          "start": 744,
+          "end": 749.9946666666667,
+          "url": "segment-125.m4s",
+          "size": 97264
+        },
+        {
+          "start": 749.9946666666667,
+          "end": 756.0106666666667,
+          "url": "segment-126.m4s",
+          "size": 97481
+        },
+        {
+          "start": 756.0106666666667,
+          "end": 762.0053333333333,
+          "url": "segment-127.m4s",
+          "size": 97183
+        },
+        {
+          "start": 762.0053333333333,
+          "end": 768,
+          "url": "segment-128.m4s",
+          "size": 97305
+        },
+        {
+          "start": 768,
+          "end": 773.9946666666667,
+          "url": "segment-129.m4s",
+          "size": 97192
+        },
+        {
+          "start": 773.9946666666667,
+          "end": 780.0106666666667,
+          "url": "segment-130.m4s",
+          "size": 97553
+        },
+        {
+          "start": 780.0106666666667,
+          "end": 786.0053333333333,
+          "url": "segment-131.m4s",
+          "size": 97147
+        },
+        {
+          "start": 786.0053333333333,
+          "end": 792,
+          "url": "segment-132.m4s",
+          "size": 97323
+        },
+        {
+          "start": 792,
+          "end": 797.9946666666667,
+          "url": "segment-133.m4s",
+          "size": 97083
+        },
+        {
+          "start": 797.9946666666667,
+          "end": 804.0106666666667,
+          "url": "segment-134.m4s",
+          "size": 97692
+        },
+        {
+          "start": 804.0106666666667,
+          "end": 810.0053333333333,
+          "url": "segment-135.m4s",
+          "size": 97125
+        },
+        {
+          "start": 810.0053333333333,
+          "end": 816,
+          "url": "segment-136.m4s",
+          "size": 97240
+        },
+        {
+          "start": 816,
+          "end": 821.9946666666667,
+          "url": "segment-137.m4s",
+          "size": 97197
+        },
+        {
+          "start": 821.9946666666667,
+          "end": 828.0106666666667,
+          "url": "segment-138.m4s",
+          "size": 97619
+        },
+        {
+          "start": 828.0106666666667,
+          "end": 834.0053333333333,
+          "url": "segment-139.m4s",
+          "size": 97105
+        },
+        {
+          "start": 834.0053333333333,
+          "end": 840,
+          "url": "segment-140.m4s",
+          "size": 97168
+        },
+        {
+          "start": 840,
+          "end": 845.9946666666667,
+          "url": "segment-141.m4s",
+          "size": 97163
+        },
+        {
+          "start": 845.9946666666667,
+          "end": 852.0106666666667,
+          "url": "segment-142.m4s",
+          "size": 97595
+        },
+        {
+          "start": 852.0106666666667,
+          "end": 858.0053333333333,
+          "url": "segment-143.m4s",
+          "size": 97077
+        },
+        {
+          "start": 858.0053333333333,
+          "end": 864,
+          "url": "segment-144.m4s",
+          "size": 97196
+        },
+        {
+          "start": 864,
+          "end": 869.9946666666667,
+          "url": "segment-145.m4s",
+          "size": 97201
+        },
+        {
+          "start": 869.9946666666667,
+          "end": 876.0106666666667,
+          "url": "segment-146.m4s",
+          "size": 97535
+        },
+        {
+          "start": 876.0106666666667,
+          "end": 882.0053333333333,
+          "url": "segment-147.m4s",
+          "size": 97313
+        },
+        {
+          "start": 882.0053333333333,
+          "end": 888,
+          "url": "segment-148.m4s",
+          "size": 96766
+        },
+        {
+          "start": 888,
+          "end": 893.9946666666667,
+          "url": "segment-149.m4s",
+          "size": 97203
+        },
+        {
+          "start": 893.9946666666667,
+          "end": 900.0106666666667,
+          "url": "segment-150.m4s",
+          "size": 97544
+        },
+        {
+          "start": 900.0106666666667,
+          "end": 906.0053333333333,
+          "url": "segment-151.m4s",
+          "size": 97199
+        },
+        {
+          "start": 906.0053333333333,
+          "end": 912,
+          "url": "segment-152.m4s",
+          "size": 97539
+        },
+        {
+          "start": 912,
+          "end": 917.9946666666667,
+          "url": "segment-153.m4s",
+          "size": 97225
+        },
+        {
+          "start": 917.9946666666667,
+          "end": 924.0106666666667,
+          "url": "segment-154.m4s",
+          "size": 97524
+        },
+        {
+          "start": 924.0106666666667,
+          "end": 930.0053333333333,
+          "url": "segment-155.m4s",
+          "size": 97247
+        },
+        {
+          "start": 930.0053333333333,
+          "end": 936,
+          "url": "segment-156.m4s",
+          "size": 97132
+        },
+        {
+          "start": 936,
+          "end": 941.9946666666667,
+          "url": "segment-157.m4s",
+          "size": 97232
+        },
+        {
+          "start": 941.9946666666667,
+          "end": 948.0106666666667,
+          "url": "segment-158.m4s",
+          "size": 97587
+        },
+        {
+          "start": 948.0106666666667,
+          "end": 954.0053333333333,
+          "url": "segment-159.m4s",
+          "size": 97209
+        },
+        {
+          "start": 954.0053333333333,
+          "end": 960,
+          "url": "segment-160.m4s",
+          "size": 97208
+        },
+        {
+          "start": 960,
+          "end": 965.9946666666667,
+          "url": "segment-161.m4s",
+          "size": 97215
+        },
+        {
+          "start": 965.9946666666667,
+          "end": 972.0106666666667,
+          "url": "segment-162.m4s",
+          "size": 97439
+        },
+        {
+          "start": 972.0106666666667,
+          "end": 978.0053333333333,
+          "url": "segment-163.m4s",
+          "size": 97207
+        },
+        {
+          "start": 978.0053333333333,
+          "end": 984,
+          "url": "segment-164.m4s",
+          "size": 97200
+        },
+        {
+          "start": 984,
+          "end": 989.9946666666667,
+          "url": "segment-165.m4s",
+          "size": 97212
+        },
+        {
+          "start": 989.9946666666667,
+          "end": 996.0106666666667,
+          "url": "segment-166.m4s",
+          "size": 97538
+        },
+        {
+          "start": 996.0106666666667,
+          "end": 1002.0053333333333,
+          "url": "segment-167.m4s",
+          "size": 97240
+        },
+        {
+          "start": 1002.0053333333333,
+          "end": 1008,
+          "url": "segment-168.m4s",
+          "size": 97229
+        },
+        {
+          "start": 1008,
+          "end": 1013.9946666666667,
+          "url": "segment-169.m4s",
+          "size": 97242
+        },
+        {
+          "start": 1013.9946666666667,
+          "end": 1020.0106666666667,
+          "url": "segment-170.m4s",
+          "size": 97451
+        },
+        {
+          "start": 1020.0106666666667,
+          "end": 1026.0053333333333,
+          "url": "segment-171.m4s",
+          "size": 96864
+        },
+        {
+          "start": 1026.0053333333333,
+          "end": 1032,
+          "url": "segment-172.m4s",
+          "size": 97248
+        },
+        {
+          "start": 1032,
+          "end": 1037.9946666666667,
+          "url": "segment-173.m4s",
+          "size": 97157
+        },
+        {
+          "start": 1037.9946666666667,
+          "end": 1044.0106666666666,
+          "url": "segment-174.m4s",
+          "size": 97576
+        },
+        {
+          "start": 1044.0106666666666,
+          "end": 1050.0053333333333,
+          "url": "segment-175.m4s",
+          "size": 97171
+        },
+        {
+          "start": 1050.0053333333333,
+          "end": 1056,
+          "url": "segment-176.m4s",
+          "size": 97202
+        },
+        {
+          "start": 1056,
+          "end": 1061.9946666666667,
+          "url": "segment-177.m4s",
+          "size": 97203
+        },
+        {
+          "start": 1061.9946666666667,
+          "end": 1068.0106666666666,
+          "url": "segment-178.m4s",
+          "size": 97860
+        },
+        {
+          "start": 1068.0106666666666,
+          "end": 1074.0053333333333,
+          "url": "segment-179.m4s",
+          "size": 97301
+        },
+        {
+          "start": 1074.0053333333333,
+          "end": 1080,
+          "url": "segment-180.m4s",
+          "size": 97183
+        },
+        {
+          "start": 1080,
+          "end": 1085.9946666666667,
+          "url": "segment-181.m4s",
+          "size": 97191
+        },
+        {
+          "start": 1085.9946666666667,
+          "end": 1092.0106666666666,
+          "url": "segment-182.m4s",
+          "size": 97603
+        },
+        {
+          "start": 1092.0106666666666,
+          "end": 1098.0053333333333,
+          "url": "segment-183.m4s",
+          "size": 97208
+        },
+        {
+          "start": 1098.0053333333333,
+          "end": 1104,
+          "url": "segment-184.m4s",
+          "size": 97126
+        },
+        {
+          "start": 1104,
+          "end": 1109.9946666666667,
+          "url": "segment-185.m4s",
+          "size": 97172
+        },
+        {
+          "start": 1109.9946666666667,
+          "end": 1116.7573333333332,
+          "url": "segment-186.m4s",
+          "size": 109291
+        }
+      ]
+    }
+  ]
+}

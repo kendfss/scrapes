@@ -1,0 +1,30 @@
+environment
+	stopfunc
+	additionalwordchar
+	ignorecase
+	paramseparator
+	startfunc
+
+
+overload
+	descr
+	retval
+
+
+keyword
+	func
+	name
+
+
+notepadplus
+
+
+html
+
+
+body
+
+
+autocomplete
+
+

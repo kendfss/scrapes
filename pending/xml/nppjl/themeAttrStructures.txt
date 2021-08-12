@@ -1,0 +1,42 @@
+wordsstyle
+	keywordclass
+	name
+	fontsize
+	fgcolor
+	styleid
+	fontstyle
+	bgcolor
+	fontname
+
+
+globalstyles
+
+
+lexertype
+	ext
+	desc
+	name
+
+
+widgetstyle
+	name
+	fontsize
+	fgcolor
+	styleid
+	fontstyle
+	bgcolor
+	fontname
+
+
+notepadplus
+
+
+lexerstyles
+
+
+html
+
+
+body
+
+
